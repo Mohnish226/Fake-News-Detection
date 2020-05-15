@@ -1,0 +1,1507 @@
+#,Contributor,Source,Title,Article,,,
+1,Rajas,snopes.com,Message in grain field in N Dakota,"Believe it or not….
+
+If you fly a plane this statement is worth a look! The guy who tilled this message in his soil is a Wells County farmer with a message for
+everyone! He says that on Dec. 6, 1946, corn was $1.47 per bushel. The day he tilled this in the soil, it was $1.45 per bushel! Go figure!
+
+This field is located in NE 1/4 Sect. 9, 146:90 Speedwell Township, Wells County in North Dakota. The farmer did it with no GPS system or
+anything! It almost looks like it is a retouched photo, but it is NOT!
+
+It was taken yesterday, Sunday, April 10, 2005! He plans to seed the field to sunflowers in May, so the message’s days are numbered.",,,"Instructions:
+
+These instructions are oddly specific because they make it simple to code and debug; please follow them exactly. 
+
+Contributor: Your name (eg: Shashank, Rajas)
+
+Source: Link to article if available, or short description of how to reach it. Write ""Self"" if you wrote it, or --- (minuses) if you don't have a source for it.
+
+Title: Self explanatory; write --- (minuses) if the article doesn't have an author or a title.
+
+Article: Please paste the text of the article in notepad, then copy and paste it into the cell. This way, it will actually fit inside 1 cell; otherwise it might bleed to other cells."
+2,Rajas,snopes.com,"Best Buy has announced they will be using “Happy Holidays” this coming Christmas shopping season, and they will not be using “Merry Christmas.”","Dawn Bryant, a spokeswoman at Best Buy Co. Inc., says their advertising will not be using the term “Merry Christmas.”
+
+“We are going to continue to use the term holiday because there are several holidays throughout that time period, and we certainly need to be respectful of all of them,” Bryant said. Click here for reference article.
+
+While many other retailers have decided to return to the traditional “Merry Christmas”, Best Buy will not be among them. Best Buy considers the use of “Merry Christmas” to be disrespectful.",,,
+3,Rajas,huffingtonpost.com,Roald Dahl Wrote This Painful Plea For Vaccinations After His Own Daughter Died Of Measles,"Author Roald Dahl penned a heartbreaking letter in 1988, urging parents to vaccinate their kids, in which he shared the story of his heartbreak over his own daughter's death from measles.
+
+According to the author's website, Olivia ""Twenty"" Dahl, the oldest daughter of Roald and his wife, Patricia, died in November 1962. A letter written by Dahl about her death was featured in a pamphlet from The Sandwell Health Authority in 1988.
+
+Read the full text of the letter below, via HuffPost UK:
+
+Measles: A Dangerous Illness
+Olivia, my eldest daughter, caught measles when she was seven years old. As the illness took its usual course I can remember reading to her often in bed and not feeling particularly alarmed about it.
+
+Then one morning, when she was well on the road to recovery, I was sitting on her bed showing her how to fashion little animals out of coloured pipe-cleaners, and when it came to her turn to make one herself, I noticed that her fingers and her mind were not working together and she couldn’t do anything.
+
+“Are you feeling all right?” I asked her.
+
+“I feel all sleepy,” she said.
+
+In an hour, she was unconscious. In 12 hours she was dead.
+
+The measles had turned into a terrible thing called measles encephalitis and there was nothing the doctors could do to save her.
+
+That was 24 years ago in 1962, but even now, if a child with measles happens to develop the same deadly reaction from measles as Olivia did, there would still be nothing the doctors could do to help her.
+
+On the other hand, there is today something that parents can do to make sure that this sort of tragedy does not happen to a child of theirs. They can insist that their child is immunised against measles.
+
+I was unable to do that for Olivia in 1962 because in those days a reliable measles vaccine had not been discovered. Today a good and safe vaccine is available to every family and all you have to do is to ask your doctor to administer it.
+
+It is not yet generally accepted that measles can be a dangerous illness. Believe me, it is. In my opinion parents who now refuse to have their children immunised are putting the lives of those children at risk.
+
+In America, where measles immunisation is compulsory, measles like smallpox, has been virtually wiped out.
+
+Here in Britain, because so many parents refuse, either out of obstinacy or ignorance or fear, to allow their children to be immunised, we still have a hundred thousand cases of measles every year.
+
+Out of those, more than 10,000 will suffer side effects of one kind or another. At least 10,000 will develop ear or chest infections. About 20 will die.
+
+LET THAT SINK IN.
+
+Every year around 20 children will die in Britain from measles.
+
+So what about the risks that your children will run from being immunised?
+
+They are almost non-existent. Listen to this. In a district of around 300,000 people, there will be only one child every 250 years who will develop serious side effects from measles immunisation! That is about a million to one chance.
+
+I should think there would be more chance of your child choking to death on a chocolate bar than of becoming seriously ill from a measles immunisation.
+
+So what on earth are you worrying about? It really is almost a crime to allow your child to go unimmunised.
+
+The ideal time to have it done is at 13 months, but it is never too late. All school-children who have not yet had a measles immunisation should beg their parents to arrange for them to have one as soon as possible.
+
+Incidentally, I dedicated two of my books to Olivia, the first was ‘James and the Giant Peach’. That was when she was still alive. The second was ‘The BFG’, dedicated to her memory after she had died from measles.
+
+You will see her name at the beginning of each of these books. And I know how happy she would be if only she could know that her death had helped to save a good deal of illness and death among other children.",,,
+4,Aaditya,https://in.pcmag.com/software/90179/ramnit-computer-worm-compromises-45k-facebook-logins,Ramnit Computer Worm Compromises 45K Facebook Logins,"A computer worm that has traditionally targeted the financial industry has set its sights on social networking, recently stealing over 45,000 Facebook login credentials, according to security firm Seculert.
+
+In a statement, Facebook said the majority of the login credentials were outdated, but it was still notifying the affected users.
+
+The worm, known as Ramnit, dates back to April 2010, and is described as a multi-component malware family that infects Windows executable and HTML files, stealing sensitive info like stored FTP credentials and browser cookies, Seculert said in a blog post.
+
+A July 2011 report (PDF) from Symantec said Ramnit was responsible for 17.3 percent of all new malicious software infections.
+
+Ramnit started going after financial institutions in August 2011, possibly merging with ZeusS ""to create a 'Hybrid creature' which was empowered by both the scale of the Ramnit infection and the ZeuS financial data-sniffing capabilities,"" Seculert said.
+
+This approach let Ramnit bypass two-factor authentication systems, allowing remote access to financial institutions, including online banking sessions and corporate networks.
+
+""With the use of a Sinkhole, we discovered that approximately 800,000 machines were infected with Ramnit from September to end of December 2011,"" Seculert said.
+
+More recently, however, Ramnit has set its sites on Facebook and its 800 million users. Of the 45,000 compromised login details, approximately 69 percent were from Facebook users in the U.K., followed by 27 percent in France, and 4 percent elsewhere.
+
+""We suspect that the attackers behind Ramnit are using the stolen credentials to log-in to victims' Facebook accounts and to transmit malicious links to their friends, thereby magnifying the malware's spread even further,"" Seculert said. ""In addition, cybercriminals are taking advantage of the fact that users tend to use the same password in various web-based services (Facebook, Gmail, Corporate SSL VPN, Outlook Web Access, etc.) to gain remote access to corporate networks.""
+
+Seculert said it provided Facebook with all the stolen credentials that it discovered on Ramnit servers, which a Facebook spokesman confirmed.
+
+""Our security experts have reviewed the data, and while the majority of the information was out-of-date, we have initiated remedial steps for all affected users to ensure the security of their accounts,"" the Facebook spokesman said. ""Thus far, we have not seen the virus propagating on Facebook itself, but have begun working with our external partners to add protections to our anti-virus systems to help users secure their devices.""
+
+Facebook warned users not to click on strange links, to report suspicious activity on the social network, and become fans of the Facebook Security Page for additional security information.
+
+Michael Sutton, vice president of security research at Zscaler ThreatLabZ, suggested that Ramnit is simply following the money—and popular culture.
+
+""Just as communication overall has shifted from traditional mediums such as email to social networks like Facebook, malware writers likewise are adopting their victim's preferred means of communication,"" Sutton said in a statement. ""Ramnit was not initially designed to harvest Facebook credentials, but the Ramnit maintainers have recognized the value of Facebook accounts for propagation.""
+
+People are now less likely to click a random link via email, but trust is still relatively high on Facebook. ""Receiving communication from a trusted contact on Facebook will have much higher click-through rates,"" Sutton said. ""Victims are simply not aware that the 'trusted' Facebook account from which the communication was received, may itself have already been compromised.""
+
+In general, Facebook is ""doing a decent job of preventing such attacks, but it has so far been playing a losing game when it comes to preventing the social network from being used as a catalyst to promote attacks,"" he concluded.",,,
+5,Aaditya,https://www.today.com/news/brothers-gored-pamplona-have-no-regrets-1C9013300,Brothers gored in Pamplona have no regrets,"Two American brothers ran with the bulls in Pamplona, have the wounds to prove it, and are cherishing the experience as a celebration of life and a brotherly bond strengthened by a bout with cancer last year.
+
+“You can either sit on the couch and watch life go by, or you can go out and try to do these things around the world. If that means getting a horn in the leg, I guess that’s the chance I took.” Michael Lenahan told TODAY during an exclusive interview Monday from the hospital room he and Lawrence Lenahan shared since being gored on Thursday.
+
+Fifteen months ago, Michael, a General Mills sales executive from Philadelphia, was diagnosed with testicular cancer. In June 2006, the 23-year-old finished chemotherapy treatments. “So June of this year was one year of being done with cancer,” he told host Meredith Vieira.
+
+His brother, 26-year-old Air Force Capt. Lawrence Lenahan, dreamed about running with the bulls during Pamplona’s annual San Fermin Festival since he was 12 years old. So they decided this was the year to do it.
+
+Dressed in the traditional white shirts and pants and red scarves, the brothers joined people who traveled to Pamplona from all over the world for the event. The festival has been celebrated for more than 400 years, but it became internationally famous in 1926 when it was immortalized in Ernest Hemingway’s novel, “The Sun Also Rises.” Today, the nine-day festival of sangria, adrenaline, testosterone and bulls draws thousands of thrill-seekers to the small village of Pamplona, northeast of Madrid near the French border.
+
+The daily bull run is a half-mile dash down narrow cobblestone streets, with thousands of runners trying to avoid being gored or trampled by a pack of 10 or 12 half-ton bulls. The run ends in the town’s bullring, where the bulls ultimately meet their fates in daily bullfights. Normally, it’s all over in about two minutes.
+
+Since 1924, when records were first kept, 13 people have been killed during the run, the last an American who was gored to death in 1995.
+
+The Lenahans thought they’d done everything right. “We scouted the course out the day before to pick an exciting but safe route,” Lawrence told TODAY. “We backed it up with a few Spanish people who had run in the past.”
+
+‘It was total chaos’ The angry, and no doubt frightened, animals gored both brothers.
+
+Lawrence suffered an eight-inch gash in his backside, while Michael took a horn in his right leg, the horn entering on his shin and tearing through skin and tissue up to his knee.
+
+“It was total chaos for a minute or two,” Lawrence continued. “My brother came yelling at me, and I was hollering at him. I saw that his leg was completely open. It was ripped open. You could see everything inside. And so we knew we had a problem ... I was eventually tackled and we were thrown in an ambulance.”
+
+The brothers insisted on sharing a room in the hospital, where they were upbeat as they talked of their experience Monday. The next event on their schedule had been to participate in a run in Philadelphia next month to benefit the Lance Armstrong Foundation’s LIVESTRONG SurvivorCare program.
+
+They no longer expect to run, but they will both walk in the event. “It’s very important to me that I participate,” Michael said.
+
+The brothers are asking that others join them by either walking, running, biking, volunteering or donating to the cause. They have formed a team called Dos Hermanos — Spanish for “two brothers,” a nickname they’ve been given by the Spanish media — and can be reached by email at Doshermanos.livestrong@gmail.com.
+
+Asked by Vieira whether they have any second thoughts about going to Pamplona, Michael said, “I can’t look back now and say I regret doing it, because it’s been an amazing experience. We’ve met great people, and we just have to learn from it.”
+
+“I really, we really learned something from this,” added Lawrence. “It seems odd to talk about, whether it’s by Michael’s bedside during chemotherapy or in the mayhem on the cobblestones of a Pamplona street, we were there for each other. In a way, it’s a bonding experience. That sounds odd, but it was, and that’s what we take from it.” 
+
+They were at a section of the run called “Deadman’s Curve,” where they let the pack of bulls pass them and started running behind them.
+
+“One bull unexpectedly broke from the pack,” said Lawrence. “The next thing we knew, there was a bull charging us from behind, about ten feet [away]. They’re so fast.”",,,
+6,Shashank,buffalonews.com,"How 40,000 people used a Lockport woman's Social Security number","That's the most used – or misused – Social Security number in history, and it belonged to a woman from Lockport.
+The federal government originally issued that number to Hilda Schrader Whitcher in the 1930s. But over the next four decades more than 40,000 people mistakenly claimed it for themselves.
+How and why that happened is an intriguing story told by various media outlets over the years, most recently last week on National Public Radio's ""Planet Money"" podcast.
+The Social Security Administration even devotes a page on its website to Whitcher's number.
+It all began in 1938, when Whitcher's employer, the E.H. Ferree Co., a maker of leather goods based in Lockport, wanted to boost sales of its wallets. The company thought it would help to show customers how they could put their Social Security card in the wallet.
+Douglas Patterson, an E.H. Ferree vice president and treasurer, decided to use the actual Social Security number of Whitcher, one of the company's leather cutters, on the display cards inserted into every wallet. He did it without her knowledge or permission.
+""It seems like they should have thought this through better,"" said Ann Marie Linnabery, assistant director of the Niagara County Historical Society, which has written about Whitcher's number.
+Now, Social Security, with its system of assigned numbers and cards, was relatively new at this point. The federal government had issued the first cards in 1936.
+Maybe it's not surprising that a number of people buying an E.H. Ferree wallet from Woolworth's and other department stores mistakenly thought the card inserted inside was their official Social Security card, or they needed a number quickly to get a job.
+That's despite the fact the E.H. Ferree cards were a different color than an official Social Security card, were smaller than an official card, had ""Specimen"" written across them – and came randomly in a wallet anyone could purchase.
+In a 1983 interview with The Buffalo News, Whitcher recalled arriving at work one day to find co-workers singing, ""I found a million dollar baby."" Whitcher said she completed the refrain of the song popular at the time – ""In a five and ten cent store"" – but didn't understand what was going on.
+It was only later that she learned her Social Security number was famous.
+""I didn't know what to say. I was dumbfounded,"" Whitcher told The News.
+In 1943, when the level of confusion was at its peak, 5,755 people were simultaneously using Whitcher's number.
+The Social Security Administration publicized the problem in an attempt to get the public to stop using the erroneous cards. The agency also voided the number and issued Whitcher a new card.
+As late as 1977, the government found 12 people still using Whitcher's original number.
+Whitcher said in later interviews that the card mistake largely was an annoyance. Her husband, Hiram, told The News that Federal Bureau of Investigation agents even questioned her once about the widespread use of her Social Security number.
+She said she couldn't believe how the problem snowballed among wallet shoppers.
+""They started using the number,"" Whitcher told The News. ""They thought it was their own. I can't understand how people can be so stupid. I can't understand that.""
+She said she didn't know how much money was mistakenly deposited into her Social Security account over the years before the agency straightened it out.
+""I'd probably be a millionaire today if I had all the money,"" Whitcher said in 1983, four years before her death at the age of 88.
+The E.H. Ferree company was at 57-61 Richmond Ave. in Lockport from 1914 until 1955. The building, renamed 57 Canal St., is now owned by Iskalo Development.
+Linnabery, from the Niagara County Historical Society, said the misuse of Whitcher's Social Security number resonates today.
+""We talk about identity theft now,"" she said. ""That was basically what happened to her back in that time, although people weren't thinking about identity theft in those days.""
+
+",,,
+7,Akash,https://dailycaller.com/2012/10/21/cbs-news-affiliate-calls-2012-presidential-race-for-barack-obama-weeks-ahead-of-election/,CBS NEWS AFFILIATE CALLS 2012 PRESIDENTIAL RACE FOR BARACK OBAMA WEEKS AHEAD OF ELECTION,"The 2012 presidential election is still more than two weeks away, but on Friday a CBS News affiliate in Arizona called the race for President Barack Obama.
+
+For 17 seconds, Phoenix, Arizona CBS News affiliate KPHO ran a lower third graphic that showed that Obama had won the Nov. 6 election over Gov. Mitt Romney with 99% of the precincts reporting. The lower third graphic appeared around 3:30 p.m. on Oct. 19, during an episode of “The People’s Court.”
+
+The CBS News graphic showed Obama winning the election with 43 percent of the vote nationwide to Romney’s 40 percent -– or 40,237,966 votes to 38,116,216. It is unclear who garnered the other 17 percent in the fictional election results.
+
+KPHO’s general manager did not return The Daily Caller’s request for comment by time of publication.
+
+UPDATE 12:10 p.m.:
+
+Michele Wallace of KPHO told TheDC that this was the result of a mistake made with a test graphic:
+
+“On Friday October 19th during a test of KPHO- CBS 5’s election returns software we inadvertently aired a test graphic for about 15 seconds in an episode of Peoples Court,” Wallace said. “The mistake was caught quickly and taken off the screen. With the election about 2 weeks away, the TV station routinely tests its equipment to ensure our viewers have the very latest’s results on election night.  We regret the error and apologize to any viewer who was confused by the mistake.”",,,
+8,Akash,https://www.rollingstone.com/politics/politics-news/1-15-million-americans-have-been-killed-by-guns-since-john-lennons-death-43117/,1.15 Million Americans Have Been Killed by Guns Since John Lennon’s Death,"Some 1.15 million people have been killed by firearms in the United States since Lennon was gunned down, according to data from the Centers for Disease Control and Prevention, confirmed by New Yorkers Against Gun Violence. (The figure includes estimates for the two most recent years.)
+
+Since 1968 — the year the Beatles released the White Album — more Americans have been killed by gun violence than in all U.S. wars throughout history, combined.
+
+Hillary Clinton was in Florida last week, giving a speech citing the staggering statistics about American gun violence, as the San Bernardino shooting was taking place. 
+
+“Ninety Americans a day die from gun violence, homicide, suicides, tragic avoidable accidents — 33,000 Americans a year die,” Clinton told the crowd. “It is time for us to say we are going to have comprehensive background checks, we are gonna close the gun show loopholes.”",,,
+9,Prathamesh,https://www.thestar.com/news/crime/2009/03/24/port_perry_dogs_poisoned_with_antifreeze.html,Port Perry dogs poisoned with antifreeze,"A popular Port Perry park was closed when several dogs became sick after eating cupcakes apparently laced with antifreeze today.
+
+Durham Police were called to Poplar Park on Ash St. around 11:30 p.m. after three dog owners took their pets to a clinic and were diagnosed as being poisoned. The dogs had been in the park earlier Monday evening and had eaten cupcakes found on the ground near a tree.
+
+The dogs are in a stable condition, said Durham police spokesperson Dave Selby.
+
+A veterinarian said the animals had ingested a ""poison-like antifreeze injected into the cupcakes,"" said Selby.
+
+Police are currently at Poplar Park and have searched other nearby parks, but have found no other poisonous food. The park is expected to open sometime today.
+
+""I don't remember it (poisoning) happening in years and years,"" Selby said.
+
+About six dogs were poisoned in Toronto's High Park last summer, two of them fatally.
+
+Toronto Police recovered a bag of flax bread from the park, believed to be soaked in antifreeze.",,,
+10,Prathamesh,https://www.reuters.com/article/us-web-friends/tortoise-hippo-friendship-deepens-post-tsunami-idUSN2829663720070301,"Tortoise, hippo friendship deepens post tsunami","NEW YORK, March 1 (Reuters Life!) - A giant tortoise and an orphaned baby hippo who forged an unusual friendship after the 2004 tsunami in southeast Asia are the stars of a new Web site so fans can follow their progress.
+
+Mzee, a 130-year-old Aldabran tortoise, became a surrogate parent and inseparable friend to hippo Owen who was washed out to sea off the coast of Kenya, rescued by villagers and taken to a wildlife park where the tortoise lived.
+
+The devastating Indian Ocean tsunami that hit in December 2004 left 230,000 people killed or missing, including 170,000 in Indonesia.
+
+The animals’ friendship came to international attention when New York-based father and daughter team, Craig and Isabella Hatkoff, teamed up with the park’s chief environmentalist Paula Kahumbu to write a book about the pair, “Owen & Mzee: The True Story of a Remarkable Friendship.”
+
+They have now released a second book, published by Scholastic, chronicling the deepening friendship, with Owen and Mzee living, sleeping and playing together, but also creating a language of their own.
+
+“They have created sounds unique to hippo or to tortoise and use gentle nods and pushes to communicate with one another,” said a spokeswoman from Scholastic which has just released
+
+“Owen & Mzee: The Language of Friendship.”
+
+The second installment in the animals’ story follows their remarkable friendship at Haller Park Animal Sanctuary nearMombasa, Kenya, which is operated by Lafarge EcoSystems, a unit of Kenyan cement maker Bamburi.
+
+But as well as updating readers on the friendship, Hatkoff’s publishing company, Turtle Pond Publications, this week also launched Web site www.owenandmzee.com to update fans on the animals with a weekly blog from caretaker Stephen Tuei.
+
+“Their true story that borders on the unbelievable teaches us many beautiful lessons on many levels,” said Hatkoff in a statement.
+
+“The Web site allows us to continually update the public on the pair’s current developments and offers kids new set of online creativity resources and applications at the same time.”",,,
+11,Aaditya,http://theconversation.com/krokodil-how-flesh-eating-zombie-drug-is-causing-a-global-crisis-106371,Krokodil: how ‘flesh-eating zombie drug’ is causing a global crisis,"Desomorphine has been in the news lately. Never heard of it? That’s quite possible. But you may well have heard its street name: “Krokodil.” However you know it, it’s a cheap substitute for heroin that has been widely branded a “flesh-eating zombie drug” – and it’s bad news.
+
+There are two reasons for its horrific reputation, one related to desomorphine itself, and the second to the way the street drug is produced.
+
+Desomorphine was actually first synthesised in 1932. As you would guess from its name, it is a “semi-synthetic” relative of morphine, the natural painkiller derived from opium poppies. Compared with morphine, it has one less double bond and one fewer –OH group (morphine has two, desomorphine has one). That’s significant because the more -OH groups a molecule has, the better it will dissolve in water. Conversely, the fewer –OH groups a molecule has, the more lipid (fat) soluble it will be – and that makes it more likely to cross the blood-brain barrier.
+
+In keeping with this, desomorphine is roughly ten times stronger a painkiller than morphine and its effects are felt sooner. It is also eliminated from the body more quickly. Consequently, while a heroin user’s euphoria may last four hours or more, a Krokodil “high” lasts for two hours at most. This means that more doses are required to sustain the high and that desomorphine has a greater potential to cause addiction, which can manifest within just days.
+
+Indeed, Desomorphine was originally synthesised to create a painkiller with fewer side effects than morphine. But while it did offer greater analgesic power, it fell into disuse because of its particular tendency to cause dependence.
+
+The return of Krokodil
+Desomorphine was largely forgotten for years – until circumstances conspired to bring it back into prominence. When the Russian government restricted the movement of heroin from Afghanistan into Russia around 2003, there was a sharp increase in the price of heroin on the street. As a consequence, Russian addicts started looking for cheaper substitutes, including desomorphine.
+
+Read more:  Monkey Dust, Krokodil, Nyaope: why new drug concoctions keep appearing
+
+But we are not talking pharmaceutical-grade desomorphine, but rather a version made in kitchen laboratories. The base ingredient for this version is codeine, another natural painkiller found in poppies, with a structure not too different from morphine. Codeine is readily available – often over the counter – as a milder painkiller than morphine. This is then mixed with a number of other additives to create “Krokodil”.
+
+So how did the name “Krokodil” come about? One theory is that it refers to the scaly green skin it can create around injection sites. Another is that it is a corruption of the name of one of the intermediates in its synthesis, “α-chlorocodide”, which is formed when the codeine reacts with the additive, thionyl chloride. Maybe it is a bit of both.
+
+Either way, while Krokodil use first became prevalent in Russia, leading to a lethal epidemic there, it has now spread to Colombia, the US, and Europe, including the UK.
+
+Devastating consequences
+Desomorphine is so cheap, partly because of the availability of codeine but also because making it is relatively straightforward; people attempt it at home without the use of a fully-equipped laboratory.
+
+I won’t describe the process in detail for obvious reasons. Typically, however, the codeine is prepared with readily obtained chemicals, including paint thinner, hydrochloric acid, iodine (from “tincture of iodine” antiseptics) and phosphorus (obtained from matchboxes). The process has a lot in common with the so-called “Nagai” method for making methamphetamine. Addicts often do this using their own kitchens and typically don’t bother to purify the resulting substance, which creates more problems.
+
+Users inject their impure desomorphine – and if they miss the vein may end up with an abscess and dead flesh. Other health effects include gangrene, phlebitis, bone infection and pneumonia, not to mention brain damage. Needle sharing may be responsible for spreading HIV and hepatitis C. Tragically, addicts often die within two to three years.
+
+Many addicts make the drug themselves, starting with codeine.  Shutterstock
+Another reason Krokodil can be so destructive is the relatively short period of time the drug spends in the body. In order to prevent the onset of withdrawal symptoms, addicts can end up stuck in a continuous cycle of making and injecting, forsaking food and pretty much everything else in the process.
+
+Krokodil has become a popular drug of abuse because it is cheap and easy to make. Sadly, the downside is much greater, leading to addiction, serious medical complications and death. Just don’t go there.",,,
+12,Prathamesh,https://taskandpurpose.com/desperate-to-return-home-deported-veterans-face-exile,"Desperate To Return Home, Deported Veterans Face Exile","Hector Barajas came to the United States from Mexico when he was 7 years old and became a green card-carrying resident, meaning he could legally live and work in the U.S., but was still subject to deportation. Deciding that he wanted to give back to his adopted country, he enlisted in the Army at 18. Barajas served in the 82nd Airborne from 1995–2001 when he left the service with an honorable discharge.
+
+After the military, Barajas made a string of bad decisions that landed him in prison for a year and a half for discharging a firearm, but because of his immigrant status, he was deported to Mexico in 2004. When he was deported, Barajas was banned from the U.S. for 20 years, a ban he broke when he illegally re-entered the country to be with his newborn daughter. He was exiled in 2010 and was once again sent back over the border to a place he didn’t grow up in and had few ties to.
+
+And Barajas isn’t alone.
+
+There’s also Howard Bailey, a Navy veteran of the Gulf War and father of two, who was deported to Jamaica six years ago where he struggles to make a living as a pig farmer. After serving 15 months in a state work camp for drug possession, Bailey turned his life around, but was picked up by immigration officers years later when he filed for U.S. citizenship.
+
+Mauricio Hernandez, an Army combat veteran from the war in Afghanistan, was deported to Mexico after receiving convictions for drug possession and the possession of an illegal firearm. He works as a martial arts trainer for troubled youth in Tijuana, Mexico.
+
+Barajas, Bailey, and Hernandez are three of the veterans that will be profiled in Mike Seely’s upcoming documentary, “Exiled: America’s Deported Veterans.” Barajas and Bailey received honorable discharges and Hernandez received a general discharge under honorable conditions. All three were legal green card holders, but were deported for committing a crime. Their deportation occurred after they’d already paid their dues to society, sometimes in the form of jail time or a prison sentence, Seely told Task & Purpose.
+
+
+
+(Left to right) Deported U.S. military veterans Hector Barajas, Howard Bailey, and Mauricio Hernandez.(Left to right) Photos courtesy of Hector Barajas, the Immigrant Defense Project, and Mike Seely.
+
+When veterans are deported, many return to countries they haven’t seen since they were children. They often have few familial ties there and little support. Seely said he didn't realize that veterans could even be deported, adding that he became aware of the issue when his wife returned from a vacation in Tijuana, Mexico, with a pamphlet given to her by a deported U.S. veteran.
+
+When deported veterans are forced to leave their families, as both Bailey and Barajas were forced to do, their lives are completely disrupted. In addition, veterans who are receiving treatment from the Department of Veteran Affairs for service-connected disabilities find themselves suddenly cut off, which means that in addition to facing cultural and financial barriers, some may face significant health challenges, Seely explained.
+
+While military service can be a fast track for citizenship, it is not guaranteed. In addition, a military veteran still needs to apply to be a citizen, said Seely, adding that many of the veterans he spoke with never got around to filing for citizenship, were uninformed of the process, or chose not to because they were legal residents.
+
+Seely said that he’s focusing on deported veterans because he doesn’t feel that the punishment fits the crime.
+
+“I think it’s a slap in the face to a veteran to deport them,” said Seely. “Even if they have committed a crime. If you’re willing to put your life on the line for your country that says a lot and they should be afforded that respect.”
+
+Immigrant veterans face deportation because they’ve violated immigration laws, however, it shouldn’t be an extension of criminal punishment, said Seely.
+
+“Especially after these guys have served their time for things they’ve done.”
+
+Alisa Wellek is the executive director for the Immigrant Defense Project where she has worked for eight years helping those facing deportation by ensuring they have access to proper legal representation.
+
+Welleck has been working with Bailey to try to overturn his deportation ruling for the last two years. It wasn’t always the case that people were subject to mandatory detention and deportation, Welleck told Task & Purpose.
+
+In 1996, the laws changed to include something called aggravated felonies, which can result in immediate deportation. Welleck explained that “a crime doesn’t have to be aggravated or a felony” to be considered an aggravated felony and can include minor offenses like drug possession. Additionally, in aggravated felony cases, judges have little discretion to weigh the merits of a veteran’s service.
+
+It’s unclear how many U.S. veterans have been deported since the law was changed in 1996 — the government doesn’t track those statistics, explained Gillian Christensen, a press secretary for U.S. Customs Immigration Enforcement in an email to Task & Purpose. What is clear is the significant toll it takes on individual veterans who have been deported.
+
+“It upsets me that our government is doing these kinds of things,” said 38-year-old Barajas in a phone interview with Task & Purpose. “These politicians will easily send you to another war, or draft these guys, but they won’t step up to the plate and support the troops like everybody talks about.”
+
+
+
+Hector Barajas sits at his computer desk at the Deported Veterans Support House in Tijuana, Mexico.Photo courtesy of Hector Barajas
+
+After he was permanently deported, Barajas struggled with homelessness and substance abuse before getting a second start when he founded the Deported Veterans Support House in Tijuana, Mexico, in October 2012. The support house, dubbed The Bunker, offers room and board to deported veterans, free of charge and has housed 20 veterans since it was founded. There are currently two veterans staying at the house and Barajas is in contact with more than 100 military veterans from more than 30 countries.
+
+“If you come to the bunker you’re going to see there’s more than 30 American flags,” said Barajas. “We’re as American as apple pie, just different cultures.”
+
+However, he still holds out hope even though he faces a lifetime ban from the country he served and where his daughter lives, growing up without him.
+
+“One of the things I like about the United States, is if there’s something that needs to be changed and it's a worthy cause, it’ll happen, said Barajas. “A piece of paper shouldn’t define whether or not you're an American. It’s what you believe.”",,,
+13,Aaditya,https://www.nestleusa.com/media/pressreleases/nestl%C3%A9-usa-announces-voluntary-recall-of-hot-pockets%C2%AE-brand-philly-steak-and-cheese-,Nestlé USA Announces Voluntary Recall of HOT POCKETS® brand Philly Steak and Cheese,"GLENDALE,Feb 18, 2014
+ 
+Nestlé USA Has issued a voluntary recall of HOT POCKETS® brand Philly Steak and Cheese in three different pack sizes and HOT POCKETS® brand Croissant Crust Philly Steak and Cheese, in the two pack box
+Friday, February 14, 2014 – Nestlé USA’s Prepared Foods Division today announced the voluntary recall of HOT POCKETS® brand Philly Steak and Cheese in three different pack sizes and HOT POCKETS® brand Croissant Crust Philly Steak and Cheese, in the two pack box.  
+
+The voluntary recall is limited to these two products, which were distributed nationwide. No other batches, sizes, including multi-packs, or varieties of HOT POCKETS® brand products are affected by this recall. The reason is due to the recall announced last week by Rancho Feeding Corporation which affects many companies.  Our teams at Nestlé have reviewed our vendor records and have determined that one Nestlé brand has been impacted by the Rancho meat recall.
+While Nestlé did not purchase meat directly from Rancho, our procurement teams worked with our supply chain to understand whether any company in this chain may have purchased meat from Rancho Feeding at any time during 2013, the period of time covered by the Rancho Feeding recall.
+
+From this review, we have confirmed that a small quantity of meat from Rancho was used at Nestlé’s Chatsworth, California production operation, a facility devoted entirely to HOT POCKETS® brand sandwiches.  The affected batches of the two varieties in our range of HOT POCKETS® brand sandwiches are being removed from the marketplace.
+
+Consumers who may have purchased the affected batches of HOT POCKETS® brand Philly Steak and Cheese should not consume the product, but instead should return it to the place of purchase for a full refund or contact Nestlé Consumer Services at (800) 392-4057.
+USDA notes that no illnesses have been reported in relation to the Rancho Feeding Recall.",,,
+14,Aaditya,http://acaptainslog.blogspot.com/2008/07/fallen-soldier_04.html,Fallen Soldier,"Another 4th of July is here and all across the nation, millions of us will celebrate in thousands of different ways.  Our military members around the world will miss out on hometown celebrations, instead, performing the duties assigned to them.  This story is in honor of them.
+
+As a commercial pilot, I too see the effects of the war in Iraq and Afghanistan.  Last month I showed up to start a trip and was approached by a gate agent.  “Captain, good morning, I wanted to inform you that we have H.R. on this flight”, she said.  H.R. stands for human remains.  “Are they military?”, I asked.  “Yes”, she said.  “Is there and escort?”, I asked.  “Yes, I already assigned him a seat”, she said.  “Would you please tell him to come to the flight deck, you can board him early”, I said.
+
+A short while later, a young army sergeant entered the flight deck.  He was the image of the perfectly dressed soldier.  He introduced himself and I asked him about his soldier.  The escorts of these fallen soldiers talk about them as if they are still alive and with us.  “My soldier is on his way back to Virginia”, he said.  He proceeded to answer my questions, but offered no words on his own.  I asked him if there was anything I could do for him and he said no.  I told him that he has the toughest job in the military and that I appreciated the work that he does for the families of our fallen soldiers.  The first officer and I got up out of our seats to shake his hand.  He left the flight deck to find his seat.
+
+We completed our preflight checks, pushed back and performed an uneventful departure.  About 30 minutes into our flight I received a call from the lead flight attendant in the cabin.  “I just found out the family of the soldier we are carrying, is onboard”, he said.  He then proceeded to tell me that the father, mother, wife and 2-year-old daughter were escorting their son, husband, and father home.  The family was upset because they were unable to see the container that the soldier was in before we left.  We were on our way to a major hub at which the family was going to wait 4 hours for the connecting flight home to Virginia. The father of the soldier told the flight attendant that knowing his son was below him in the cargo compartment and being unable to see him was too much for him and the family to bare.  He had asked the flight attendant if there was anything that could be done to allow them to see him upon our arrival.  The family wanted to be outside by the cargo door to watch the soldier being taken off the airplane.  I could hear the desperation in the flight attendants voice when he asked me if there was anything I could do.  “I’m on it”, I said.  I told him that I would get back to him.
+
+Airborne communication with my company normally occurs in the form of email like messages.  I decided to bypass this system and contact my flight dispatcher directly on a secondary radio. There is a radio operator in the operations control center who connects you to the telephone of the dispatcher.  I was in direct contact with the dispatcher.  I explained the situation I had onboard with the family and what it was the family wanted.  He said he understood and that he would get back to me.
+Two hours went by and I had not heard from the dispatcher.  We were going to get busy soon and I needed to know what to tell the family.  I sent a text message asking for an update.  I saved the return message from the dispatcher and this following is the text.
+
+“Captain, sorry it has taken so long to get back to you.  There is policy on this now and I had to check on a few things.  Upon your arrival a dedicated escort team will meet the aircraft.  The team will escort the family to the ramp and planeside.  A van will be used to load the remains with a secondary van for the family.  The family will be taken to their departure area and escorted into the terminal where the remains can be seen on the ramp.  It is a private area for the family only.  When the connecting aircraft arrives, the family will be escorted onto the ramp and planeside to watch the remains being loaded for the final leg home.  Captain, most of us here in flight control are veterans.  Please pass our condolences on to the family, thanks.”
+
+I sent a message back telling flight control thanks for a good job.  I printed out the message and gave it to the lead flight attendant to pass on to the father.  The lead flight attendant was very thankful and told me, “You have no idea how much this will mean to them.”  Things started getting busy for the descent, approach and landing. 
+
+After landing, we cleared the runway and taxied to the ramp area.  The ramp is huge with 15 gates on either side of the alleyway.  It is always a busy area with aircraft maneuvering every which way to enter and exit.  When we entered the ramp and checked in with the ramp controller, we were told that all traffic was being held for us.  “There is a team in place to meet the aircraft”, we were told.  It looked like it was all coming together, then I realized that once we turned the seat belt sign off, everyone would stand up at once and delay the family from getting off the airplane.  As we approached our gate, I asked the copilot to tell the ramp controller we were going to stop short of the gate to make an announcement to the passengers.  He did that and the ramp controller said, “Take your time.” 
+
+I stopped the aircraft and set the parking brake.  I pushed the public address button and said, “Ladies and gentleman, this is your captain speaking.  I have stopped short of our gate to make a special announcement.  We have a passenger on board who deserves our honor and respect.  His name is private XXXXXX, a soldier who recently lost his life.  Private XXXXXX is under your feet in the cargo hold.  Escorting him today is army sergeant XXXXXXX.  Also onboard are his father, mother, wife, and daughter.  Your entire flight crew is asking for all passengers to remain in their seats to allow the family to exit the aircraft first.  Thank you.”
+
+We continued the turn to the gate, came to a stop and started our shutdown procedures.  A couple of minutes later I opened the cockpit door.  I found the two forward flight attendants crying, something you just do not see.  I was told that after we came to a stop, every passenger on the aircraft stayed in their seats, waiting for the family to exit the aircraft.  When the family got up and gathered their things, a passenger slowly started to clap their hands.  Moments later more passengers joined in and soon the entire aircraft was clapping.  Words of “God Bless You, I’m sorry, Thank you, Be proud, and other kind words were uttered to the family as they made their way down the aisle and out of the airplane.  They were escorted down to the ramp to finally be with the loved one lost. 
+
+I never did see the family.  Another soldier died, another family grieved and we did what we could.  That is the way it works sometimes.  I get a call from the cabin and we work as a team to do what we can.  That day everybody from the flight crew, to the operations center, to the 184 passengers onboard, we did what we could.  Many of the passengers disembarking thanked me for the announcement I made.  They were just words, I could say them over and over again, but nothing I say will bring that soldier back.  I respectfully ask that all of you reflect on this day and the sacrifices that millions of men and women have made to ensure our freedom, safety, and the right to live a good life.
+
+Be safe,
+
+FlyGuy.",,,
+15,Anubhav,https://www.nbcbayarea.com/news/local/Search-for-Missing-Sierra-LaMar-Intensifies-Saturday-144108536.html,Missing Child: Sierra LaMar,"LaMar, a 15-year-old Sobrato High School student, was last seen the morning of Friday, March 16. She had school that day, but never got on the bus.
+
+The girl has been the subject of a major search over the last week, involving the FBI, helicopters, dogs, roadblocks and divers.
+
+Cardoza said Saturday's search was the biggest mounted since LaMar was reported missing.
+
+The day of LaMar's disappearance, her school's automated attendance system notified her mother, Marlene LaMar, that her daughter didn't show up for classes.
+
+The next day, searchers found her cell phone along the side of the road near Palm and Dougherty Avenue, near her home in unincorporated Morgan Hill.
+
+""The cellphone was intact, it wasn't broken,"" Sgt. Jose Cardoza said. ""There's no evidence to lead to a crime after that.""
+
+Then two days after LaMar's disappearance, searchers found her black and pink Juicy brand purse near the intersection of Laguna and Santa Teresa in Morgan Hill, about two miles from her home, Cardoza said.
+
+Inside the purse was a pair of pants, a shirt, a bra and a pair of underwear. The clothing was neatly folded inside the purse.
+
+Steve LaMar, the girl's father, is a registered sex offender. But the Santa Clara County Sheriff's office said he was not a suspect in her disappearence.
+
+""I understand the stigma associated with this in my background, and I assure everyone it is not connected in any way to my daughter’s disappearance,"" he said. ""I ask that you please not shift the focus away from the investigation and from finding Sierra.""
+
+Hundreds of people in Morgan Hill and Fremont gathered Friday night for a candlelight vigil for LaMar.",,,
+16,Aaditya,https://www.snopes.com/fact-check/collapse-into-cool/,Starbucks’ ‘Collapse into Cool’ Campaign,"There appears to be no limit on what Starbucks will do to capitalize on the misforturnes of others.
+A regular contributor to one of the online forums I participate in was appalled to walk into the Starbucks nearest the WTC site and see the attached poster on a wall. He complained to the staff and was basically told to get lost.
+
+This is the same Starbucks that charged EMT workers $130 for water immediately following the collapse of the towers. (Note that word “collapse.”)
+
+He wrote to the group about his experience and other members across the country went to their local Starbucks and saw the poster. Many were disgusted while others didn’t see what the fuss was about. Eventually, though, enough people from the group (as well as others) wrote and called to Starbucks national headquarters in Seattle that they announced last week that local stores have been instructed to take down the poster.
+
+I not only understand what upset everyone but I think it is disgusting and between this and Starbucks’ behavior on September 11, I will never go there again. What do you think?",,,
+17,Anubhav,http://www.washingtonpost.com/wp-dyn/articles/A52359-2004Nov15.html?noredirect=on,Marines Probe Apparent Slaying of Wounded Iraqi,"Marine commanders in Iraq are investigating an incident in which a Marine apparently shot and killed a severely wounded and unarmed Iraqi in a mosque in Fallujah, a Pentagon official said last night.
+
+Images of the incident, captured Saturday on videotape by Kevin Sites, a freelance correspondent working for NBC News who is embedded with a Marine unit, were broadcast last night on several news networks. The videotape shows a squad of Marines entering the building and seeing several Iraqis lying against a wall, either dead or gravely wounded. One Marine shouts something about one Iraqi feigning death. The Marine then shoots the man in the head.
+
+_____MSNBC Video_____ 
+ MSNBC icon • A U.S. Marine is under investigation for allegedly fatally shooting an unarmed Iraqi in a Fallujah mosque. 
+
+_____Message Boards_____
+• Post Your Comments 
+The networks did not broadcast the entire tape, saying some of it was too graphic. ""NBC has chosen not to air the most gruesome of the images,"" NBC anchorman Brian Williams said in introducing the videotape.
+
+According to Sites, the wounded men were insurgents who had battled a different group of Marines the day before. In that firefight, 10 Iraqi fighters were killed and five were wounded. Those five were treated with field bandages and left in the mosque because the conditions of combat did not allow the Marines to bring them out. Other Marines were supposed to collect the wounded Iraqis and take them for treatment, but, for reasons not yet known, that did not happen, Sites said.
+
+Then, on Saturday, the Marines received a report that the area, which they thought had been cleared, had been reoccupied by insurgents, Sites said. A different squad of Marines that had not been involved in the previous day's encounter was sent to investigate. It entered the mosque and saw the men lying on the floor. It was then that the shooting occurred, according to the videotape.
+
+The Marine who shot the wounded Iraqi had been wounded the day before but returned to duty. Since the incident he has been taken out of front-line duty, Sites said.
+
+""My understanding is that the Marines have launched an inquiry into it,"" Pentagon spokesman Bryan Whitman said. He warned against overreacting to the videotape: ""I wouldn't jump to any conclusions. We don't know all the facts here.""
+
+The Marine investigation was begun yesterday by the staff of the 1st Marine Expeditionary Force, of which the major ground unit is the 1st Marine Division, Whitman said. He said he did not know the unit involved, but Sites is embedded with the 3rd Battalion of the 1st Regiment of the 1st Marine Division, according to his Web site, www.kevinsites.net.
+
+Lt. Gen. John F. Sattler, commander of the 1st Marine Expeditionary Force, in Fallujah, confirmed that an investigation was underway and added: Let me make it perfectly clear: We follow the law of armed conflict. We hold ourselves to a high standard of accountability. The facts of this case will be thoroughly pursued.""
+
+Thomas Lee, a former Navy officer who now teaches at Fordham University School of Law in New York, said that since 1864, the Geneva Conventions governing the law of war have prohibited the killing of wounded or sick enemy combatants.
+
+The situation in the videotape appears to resemble an incident in Kufa, south of Baghdad, in the spring that resulted in the Army bringing charges of murder and dereliction of duty against an officer in the 1st Armored Division.
+
+In that May 21 incident, Capt. Rogelio M. Maynulet shot the wounded driver for militant Shiite leader Moqtada Sadr. Maynulet then told a fellow officer that the man was so badly wounded, with part of his skull blown away, that he shot him out of compassion, according to a military legal proceeding held in Germany in September.
+
+Several other Army soldiers in Iraq have been charged with murder, manslaughter and other offenses in connection with the treatment of detainees or curfew breakers. Also, four soldiers in the 1st Cavalry Division have been charged with premeditated murder of Iraqi civilians.
+
+Retired Army Col. Andrew Bacevich said that such incidents can only damage the U.S. cause in Iraq. ""We cannot prevail in this conflict if our actions suggest that we do not value Muslim life or that we view Muslims as an inferior species,"" said Bacevich, who now teaches international relations at Boston University. ""My sense is that such an impression has already taken hold in the Arab world. This incident can only reinforce that impression.""
+
+Correspondent Jackie Spinner in Fallujah contributed to this report.",,,
+18,Aaditya,https://www.snopes.com/fact-check/green-eggs-and-ham/,"Green Eggs and Ham
+","Many of us grew up enjoying the wildly imaginative rhyming works written and illustrated by Theodor Seuss Geisel, better known to us as Dr. Seuss. Bartholomew and the Oobleck, If I Ran the Zoo, Horton Hears a Who!, How the Grinch Stole Christmas and many other books involving “ludicrous situations pursued with relentless logic” were the core of many a child’s personal library. In 1957, Seuss produced a classic children’s tale, The Cat in the Hat, using only the words on an average first-grader’s vocabulary list. This work was followed by a series of books employing an ever more limited vocabulary: Ten Apples up on Top!, Hop on Pop, Fox in Socks, and the book that initiated this trend (and is perhaps the best known of all of Seuss’ efforts), Green Eggs and Ham.
+
+What prompted this minimalist trend by Dr. Seuss? A dare from his editor, Bennett Cerf, that he write a book using no more than fifty different words. Seuss took Cerf up on his challenge and produced a classic children’s work many of us can still recite from memory.",,,
+19,Aaditya,https://www.snopes.com/fact-check/bad-coins/,"Pirate’s Gold Chocolate Coin Recall
+","The Canadian Food Inspection Agency (CFIA) is warning the public not to consume, distribute, or sell the Sherwood Brands Pirate’s Gold Milk Chocolate Coins described below. This product is being recalled due to positive test results for melamine conducted by the CFIA.
+The affected product, Sherwood Brands Pirate’s Gold Milk Chocolate Coins, is sold in 840g containers containing 240 pieces per container
+
+bearing UPC 0 36077 11240 7 and lot code 1928S1.
+
+This product is sold nationally through Costco stores and may also have been sold in bulk packages or as individual pieces at various dollar and bulk stores across Canada.
+
+If the original product identity and UPC code is not evident, consumers are advised to check with their retailer to determine if they have the affected product.
+
+Retailers and distributors are advised to stop distributing Sherwood Brands Pirate’s Gold Milk Chocolate Coins and to initiate a voluntary recall of this product. The CFIA will be working with the importers to remove the affected product from the marketplace.
+
+There have been no reported illnesses associated with the consumption of these products.
+
+Although the health risk associated with these products is considered to be low, the advisory is being issued as a result of the Government of Canada’s ongoing investigation into milk and milk-derived products sourced in/from China that may have been distributed in Canada.
+
+The CFIA is monitoring the effectiveness of the recall.
+
+Melamine is a chemical compound used in a number of commercial and industrial applications. Canada does not allow its use as a food ingredient.",,,
+20,Mukul,https://www.huffingtonpost.in/entry/why-oyo-sharing-check-in-details-with-the-govt-should-worry-you_in_5c3ee9d9e4b0922a21da1990?utm_hp_ref=in-homepage,Why OYO Sharing Check-In Details With The Govt Should Worry You,"
+By Gopal Sathe, Rachna Khaira
+BENGALURU, Karnataka—Imagine this scenario: You arrive at a hotel, show your ID and check in. By the time you reach your room, the local police would have not only learnt of your arrival, they would also have access to the data you share with the hotel.
+
+Worried? You should be. A large digital database that tracks people’s movements would be very easy to misuse, let along raise larger questions of living in a Big Brother state. But this is the crux of a new programme launched this week by OYO Rooms, which is first rolling it out in West Bengal, before expanding to other parts of the country.
+
+The move raises concerns about data misuse and privacy infringement, especially in a country where attacks on marginalised groups are all too common. 
+
+OYO Rooms, which claims to be India’s largest hotel network across 230 cities, with over 8,500 hotels, has grown in the past few years to become a familiar name in a country where more people are now travelling than ever for work or leisure.
+
+On Tuesday, at the Bengal Tourism Summit in Kolkata, the company announced its new digital arrival and departure register, which would provide the government real-time data about people checking in and out of its hotels.
+
+“The West Bengal Government has been extremely progressive and forward-thinking in its ideation and implementation of tourism-friendly schemes and initiatives,” Aditya Ghosh, CEO, India and South Asia, OYO Hotels and Homes, said at the summit. The digital register, said Ghosh, is part of this effort. “OYO will be happy to assist the WB Government to maintain a real time digital data repository,” he said.
+
+This is not happening just in West Bengal either.
+
+“At this point, we have seen acceptance from the state governments of Haryana, Rajasthan and Telangana of our proposed digitisation of guest entry and departure records,” Ghosh said.
+
+“The Digital arrival and departure register aims to provide a real-time update to the respective governments on who’s checking in and checking out, making this a more efficient and transparent process as compared to the manual version.”
+A source close to the company explained that all hotels, whether small unbranded hotels, or five-star ones, must collect customer data and provide it to authorities whenever asked. They claimed that since the government was directly handling the data, there is no concern about any misuse from OYO’s side. This person added that the data is shared with the same authorities that would have received the physical registers, and not a wider audience.
+How this can enable surveillance
+
+The news has raised concerns amongst researchers and groups working on privacy in India. The Internet Freedom Foundation, which works on areas such as net neutrality, privacy and innovation in India, wrote, “Everyday we lose more of our privacy. This means a live update the next time you check into a hotel room. Without a warrant or a legal request, instantaneous. Scalable, deeper, richer, and in real time.”
+
+In the absence of any reasonable privacy laws in India, broad-scale data sharing like this naturally raises concerns. Pranesh Prakash, a Fellow at the Center for Internet and Society in Bengaluru, agreed that the lack of transparency or regulations on how this data is used, or misused, is a problem. He added: “As it stands, the police don’t know what to do with all the hotel guest data they collect. Now they’re going to get even more.”
+
+    Invasions of privacy enabled by technology could put every other human right at risk, and on a scale that would be truly terrifying.
+
+Although the police has always had access to this data, it has not been at this scale. Each time, it would be accessing physical records one at a time as required, which automatically puts limits on how the data can be used. Digital records can enable easily searchable databases and with more data coming in, new uses can also be developed.
+
+As Andrew Thompson, Adjunct Assistant Professor Political Science, and Fellow at the Balsillie School of International Affairs, University of Waterloo, noted in The Conversation, the right to privacy has become a pressing human rights issue. And rightly so. Big data—combined with artificial intelligence and facial recognition software—has the capacity to intrude on people’s lives in unprecedented ways, and sometimes on a massive scale.
+
+States of all stripes are collecting data on their citizens, and have been doing so for some time. This is not going to end anytime soon. Quite the opposite, in fact. If left unchecked, invasions of privacy enabled by technology could put every other human right at risk, and on a scale that would be truly terrifying, Thompson noted.
+
+As of now, this data is confined to just a few states—however, if shared at the national level, it would open up even larger scale use of databases to surveil the people.
+For this reason, police access to such data is getting restricted in other countries. For example, in the US, police inspections used to be allowed without any limit on the number of queries, or other restrictions. However, a US Supreme Court decision in 2016 has changed this. In the case of City of Los Angeles v. Patel, the court recognised that a hotel has a privacy interest in the information it collects from its guests. The court said that hotel owners ahould be allowed to have a neutral decision-maker review an officer’s demand before handing over guest data.
+Highly valuable data is more at risk
+
+Aside from the question of misuse of data, there is also the question data theft. People staying at hotels have money to spend, and the hotel register contains a large degree of information about the individuals. As we know by now, data like this is quite valuable in itself—in fact, one of the reasons why the privatisation of IRCTC has been delayed is because the government realised it needed to arrive at a valuation for the treasure trove of data that the booking platform had gathered.
+
+The data from hotels is a tempting target for these reasons, and recent events have shown that this is indeed the case.
+
+Late last year, a case came to light of a hack at the Marriott, which exposed the passport numbers of more than 5 million people, dating back to records from 2014. In total, some 383 million records were compromised, including 8.6 million debit and credit card numbers. Some experts believe that the breach may have been the result of a Chinese intelligence-gathering effort, according to a December report by the New York Times.
+
+Digital repositories of check-in information will make data of this kind a tempting target for hackers, spread across multiple state government databases. Having multiple facets to attack will make it easier to find weaknesses and get to the data, obviously, but aside from that, there is also the question of how secure this data actually will be.
+As noted by others, including those in the government, the volume of attacks on Indian sites isn’t the main challenge—rather, it’s the lack of seriousness about security. Add to this the unfortunate tendency of the government to go into denial about hacks. Coupled with a lack of trained cybersecurity professionals, and the refusal to launch bug bounty programmes to encourage ethical hackers to test the security of government systems, the result is that these vast databases can’t truly be considered secure.
+Nothing new, but still a cause for concern
+
+As per Government of India regulations, it is mandatory for all guests to show an ID proof at the time of check-in, explained TD Reddy, manager of the Iris Hotel in Bengaluru’s HSR Layout. “It has to be a government ID proof, with address and photo on it. So we can take the licence, voter ID, passport, Aadhaar… We just keep a photocopy. There is also a form, which includes details like your address, which city you have come from, what your contact number is, those types of details.”
+
+So far, all hotels in India use a manual register with 20+ fields to record all relevant details of guests checking in and checking out of the hotel. This is later shared by hotels with the police authorities as mandated by law. In some places, a person familiar with the rules added, the registers need to be certified by the police before being put to use.
+
+Collecting this information is mandated by the government, but actually passing it on is another matter. It is normally maintained as a physical record, but almost never actually collected, Reddy said.
+
+“Sometimes if there is a missing person, or something like that, then the police can ask for details but that is all.” The police simply have to request the information for an investigation, and the hotel will look up the details, he said.
+
+The exception is foreigners, whose details the hotels are mandated to furnish to the police. “As per MHA directions, hotels have to only share information of foreign nationals. We are not a surveillance state and hence do not seek information of Indian citizens,” said Dinkar Gupta, DGP intelligence, Punjab. This, however, appears to be changing.
+OYO has created a new application which will be used by hotels to capture this information, rather than relying on paper documents. The hotel manager can record the information directly into the app, along with photos of the guests and government ID proofs. And, the company confirmed, it does not hold any of the user data—this goes directly to the government servers, which has already been tested in Jaipur, and pilots are also running in Haryana and Telangana.
+
+The data collected by the hotels under is supposed to be accessible by the police, but it’s not supposed to be presented as a firehose of information. This automatic uploading of information can have unintended consequences, as DGP Gupta’s response highlights.
+
+However, OYO and the governments seem to be too focused on efficiency and the ‘pioneer’ tage to recognise this.
+
+“Technology is deeply embedded in our DNA. We are always working towards building innovative solutions for providing a smooth and hassle-free experience for our guests and hoteliers,” an OYO spokesperson said. “With the Digital Departure and Arrival Register, we aim to add a stronger data security net to the entire booking process by ensuring transparency, digitization and improved efficiency of operations for the hotels. We are proud to offer this solution which has been pioneered by us to simply and safely transfer guest information to the relevant authorities, whenever requested for any investigation, basis an information order.”
+
+Businesses have never been at the forefront in fighting against unjust demands by governments, but OYO’s easy capitulation in handing over customer data, without even being asked for it, points to larger battles looming for privacy advocates.",,,
+21,Mukul,https://www.huffingtonpost.in/entry/dance-bars-maharashtra-mumbai-supreme-court-5-hours-no-cctvs-no-showering-of-cash_in_5c402ff2e4b0a8dbe16da80e?ncid=other_trending_qeesnbnu0l8&utm_campaign=trending,"5.5 Hours, No CCTVs, No Showering of Cash: SC Ruling On Dance Bars In Maharashtra
+
+","
+NEW DELHI — The Supreme Court on Thursday set aside certain provisions of a law imposing restrictions on the licensing and functioning of dance bars in Maharashtra.
+
+A bench headed by Justice AK Sikri quashed certain provisions of the Maharashtra Prohibition of Obscene Dance in Hotels, Restaurants and Bar Rooms and Protection of Dignity of Women (Working therein) Act, 2016 like the mandatory installation of CCTVs and a partition between bar rooms and the dance floor.
+
+The top court, however, upheld some provisions. It allowed the payment of tips to performers but made it clear that showering of currency notes cannot be allowed.
+
+It quashed the provision mandating that dance bars in Maharashtra should be one kilometre away from religious places and educational institutions.
+
+It also upheld the condition fixing the timing of dance bars in the state from 6 pm to 11.30 pm.",,,
+22,Mukul,https://www.huffingtonpost.in/entry/an-indian-start-up-made-a-robot-receptionist-of-course-shes-a-woman_in_5c36ed4de4b0c469d76af3ca?ncid=other_topnaventr_coabgdcpxri&utm_campaign=topnav,An Indian Start-Up Made A Robot Receptionist: Of Course She's A Woman,"By Gopal Sathe
+BENGALURU, Karnataka — Mitri, the receptionist at Smartworks, a co-working space in Cessna Business Park on Bengaluru’s Outer Ring Road, wears pink and white, greets people with a fixed smile and patiently answers questions about the facility. 
+
+She’s also being prepped to take over some janitorial work, vacuum floors and flit through the building at night as a security guard. 
+
+Mitra, her male counterpart, by contrast is in training to be deployed at a car-dealership.
+
+Mitri and Mitra are both robots — identical in every way except for their “genders”, as telegraphed by their plastic outer shells.
+
+The rise of the robots is already up-ending the workplace, yet somethings remain depressingly familiar—such as creating robots that conform to the same old stereotypes of ‘authoritative’ men and ‘helpful’ women. It is no coincidence that three of the biggest virtual assistants today—Siri, Alexa, and Cortana—also sound like women.
+
+“Initially, the bot was gender neutral,” explained Balaji Viswanathan, the CEO of Invento Robotics, the Bengaluru company that manufactures Mitra and Mitri.
+
+Viswanathan, a fixture of the Bengaluru startup scene, said Invento started about two and a half years ago with the idea to build a humanoid assistant, and came up with the design based on how it would interact with people.
+
+This included a ‘head’ that would turn to look at people (with mounted cameras), a display on its torso that would be easy to reach and type on, and a wheeled base for easy movement. What it didn’t include were any gender-related features.
+
+“When we first made it, we called it Mitra, and it was gender neutral. People asked us, ‘why did you make it male?’ You shouldn’t read too much into the whole gender thing, it’s just more successful with the customers, but it’s the same,” explained Viswanathan.
+
+“It has the same functionality. The design, like Mitri has a more curved design, the original design had more straight lines. And the colours, and voice, these are the main changes. It’s about what our customer thinks their customer will be most comfortable with,” Viswanathan said.
+The result is a little disturbing though. Mitri might look more like a chess piece than a person, but it’s been given a woman’s voice. It will back up to move out of the way as you come close, and turn to look at you. So placing a touchscreen display right over its “chest” seems like a bad design choice, and leads to awkward-looking interactions.
+What the customers want
+
+Viswanathan said that Invento is seeing customers from a number of different spheres. Airports are one set of customers—Mumbai has two bots, Delhi has three, and Chennai also has two. As it happens, just before meeting Viswanathan, we came across a Mitra-bot at the Chennai airport. It was unfortunately powered down at the time, and employees nearby couldn’t give details about its use.
+
+It’s also been deployed at SmartWorks, and other offices are in the pipeline, where it could use facial recognition to identify employees and buzz them through without requiring a tag or ID card. It could also, Viswanathan said, be used to give employees useful information through spoken queries, “Like, if you want to know how you should apply for leave, or what training you are eligible for, those kinds of things you could just ask.”
+
+The bot is also being used at retail locations, including a car dealership which specifically asked for a ‘male’ design. “We don’t need to do much to switch so we’re not too hung up on calling it male-female, it’s just what the customers want,” Viswanathan said.
+
+    Why a ‘female’ robot? — “It’s more woman-friendly.”
+
+This was confirmed by Harsh Binani and Neetish Sarda, CEO and founder of Smartworks respectively. The co-working company wants to take care of everything an employee could need—from basics like Internet and food at the canteen, to BigBasket vending machines and a laundry service, SmartWorks wants to handle everything.
+
+“We want to make the office and employee experience hassle-free, and Bengaluru has been very receptive,” said Binani. “But what’s also important to remember is that what is important to people in Bengaluru may not be very useful in Mumbai.” Bengaluru is a high-tech centre, he averred, and Sarda added that for the people here, a solution like Mitri seemed like the best option.
+
+“We tried tablets, email-based systems, all of that, but this really clicked in our trial,” said Sarda. “Is the air conditioning uneven? Does the toilet need cleaning? Just tell Mitri, and it will send real-time updates to the building managers who can take action.”
+
+The robot won’t be replacing a real receptionist, and Sarda said there’s no rationale to do so. But why a ‘female’ robot? “It’s more woman-friendly,” said Binani. “The office is full of tech companies, it’s very male dominated, so this makes it more approachable for the women working here.”
+A history of gendered robots
+
+The gender of robots, and AI assistants is not an idle question. It’s one of those things that gets taken for granted, but speaking in India, Microsoft CEO Satya Nadella talked about AI being the new operating system. This is a matter of concern, because we often don’t understand how the systems we build will work, and interact. For example, Amazon’s hiring algorithm had to be scrapped because was biased against women, which went unnoticed for a long time.
+
+And Microsoft’s chatbot Ruuh—which receives marriage proposals from strangers on Facebook, and chats with them about movies and music—quickly changes the subject if you talk about abuse or violence against women, rather than offering the resources people need. This isn’t a flaw in the bot, it’s just a scenario it’s creators didn’t think about.
+
+This isn’t new—the first chat program was named Eliza, in the 1960s. In the intervening years, we’ve tended to label conversational bots and algorithms as female, and this has consequences. Researchers said that virtual assistants spend much of their time fending off sexual harassment.
+Robots are developed with certain traits in accordance not only with who makes them, but also who the user is perceived as in terms of their gender roles, which adds to the social construct of robots’ gender roles, according to Roger Andre Søraa, in a paper titled “Mechanical genders: how do humans gender robots?”, published in Volume 21 of the “Gender, Technology and Development” journal.
+
+Research showed that users tend to like a male voice when an authoritative presence is needed and a female voice when receiving helpful guidance. Viswanathan is right when he reiterates that robots don’t have genders. But the gender biases that we see in the human world are mirrored in the robots we’re creating. When the exact same robot is given a pastel shade and rounded head to make “her” a more welcoming receptionist, and broad shoulders and a deeper voice so “he” will be more effective as a watchman, it tells us something, not about the robots, but the people using them.
+The next generation
+
+At the annual Consumer Electronics Show (CES), the biggest gadgets expo in the world, Invento is showcasing its latest robot, the Mitra v3. The new robot has more dextrous arms, and can even make hand gestures like a thumbs-up, or to hold small objects. The new bot will also have an updated navigation system, so it can move around the office (or showroom, or airport) more easily.
+
+It’s also getting some additional software smarts for use in a retail environment. For example, the camera on its head will also be used as a barcode reader. This could be useful in stores, to give nutritional information or describe common recipes using those ingredients, for example.
+
+Interestingly enough, the new version being demonstrated is the Mitra design again, and not the Mitri. The customers might prefer one thing but as Viswanathan puts it, “don’t think too much about the gender of a robot.”
+
+
+",,,
+23,Anubhav,https://www.theguardian.com/politics/2019/jan/17/may-will-stick-to-brexit-principles-in-cross-party-talks-says-no-10,"May will stick to Brexit 'principles' in cross-party talks, says No 10","Downing Street has again insisted the prime minister is determined to stick to her Brexit “principles”, including rejecting a customs union and a second referendum, as she embarks on cross-party talks to try to salvage her Brexit deal.
+
+With the clock running down to Brexit day on 29 March, May was holding a series of talks on Thursday, which kicked off with the Green party MP, Caroline Lucas.
+
+May’s official spokesman insisted these conversations would be approached “in a constructive spirit, and wanting to hear what the various groups have to say”.
+
+But when asked whether May was willing to flex any of her negotiating red lines, he said they remained in place.
+
+“Where people have pre-existing positions, of course they will want to make their argument for them, and the PM is going to listen, but you understand the principles which the PM holds, which she believes honour the result of the referendum,” he said.
+
+“The PM has set out over the course of many months now what she believes the British people voted for, and what she believes is necessary to honour the referendum. She stands by those principles.”
+
+On the specific issue of a customs union, which is a key demand of both Labour and backers of a Norway-style softer Brexit, he said: “The PM is absolutely clear on the importance of having an independent trade policy in order to honour the result of the referendum.”
+
+Members of the customs union cannot strike their own trade deals. May’s spokesman said: “The ability for the UK to reach out throughout the world and strike its own trade deals is an important element of taking back control.”
+
+",,,
+24,Anubhav,https://www.theguardian.com/world/2019/jan/17/italian-town-sambuca-sicily-dozens-homes-for-sale-one-euro,Italian town puts dozens of homes on market for as little as €1,"British house prices may be crashing, but you would still be hard-pressed to find a cheaper property than those on sale in one Sicilian town, where homes are going for as little as €1.
+
+Dozens of properties have been put up for sale in Sambuca, a hilltop town with stunning views across the Mediterranean island, for less than the price of a takeaway coffee.
+
+The deal is a bid to revive an area that has undergone depopulation in recent years, with residents moving to bigger cities.
+
+According to local officials, anyone interested can more or less make a purchase straight away.
+
+“As opposed to other towns that have merely done this for propaganda, this city hall owns all €1 houses on sale,” Giuseppe Cacioppo, Sambuca’s deputy mayor and tourist councillor, told CNN. “We’re not intermediaries who liaise between old and new owners. You want that house, you’ll get it [in] no time.”
+
+There is a catch, though – new owners must commit to refurbishing their property within three years, at a cost starting from €15,000 (£13,200), and will need a €5,000 security deposit. This will be returned once the refurbishment is complete.
+
+But buyers won’t be disappointed, according to Cacioppo.
+
+“Sambuca is known as the ‘city of splendor’,” he added. “This fertile patch of land is dubbed the ‘earthly paradise’. We’re located inside a nature reserve, packed with history. Gorgeous beaches, woods and mountains surround us. It’s silent and peaceful, an idyllic retreat for a detox stay.”
+
+With the population dwindling, Cacioppo said the town needs outsiders to prevent it from going under.
+
+“We can’t afford to lose our lovely Arab heritage. Luckily, foreigners are lending a hand in this rescue crusade,” he said.
+
+The two-storey dwellings are built with reddish-pink stone and feature courtyards, palm gardens and arcaded entrances. It is also possible to see Sicily’s Mount Etna volcano on days when the sky is clear enough.",,,
+25,Mukul,https://www.huffingtonpost.in/entry/mcjesus-haifa-israel-protests_in_5c403460e4b041e98ffab648?ncid=other_trending_qeesnbnu0l8&utm_campaign=trending,Crucified Ronald McDonald Sculpture 'McJesus' Sparks Protests In Israel,"By Carol Kuruvilla, HuffPost US
+An Israel art museum’s exhibition featuring a crucified Ronald McDonald is receiving backlash from local Christians ― while the sculpture’s creator wants it taken down for a completely different reason. 
+
+Finnish artist Jani Leinonen’s sculpture, titled, “McJesus,” portrays the fast-food chain McDonald’s clown mascot hanging on a cross, his body positioned in a way that evokes traditional images of Jesus Christ on a cross. It was reportedly meant to serve as commentary on the entanglement of “religious systems and the consumer culture,” according to the Haifa Museum of Art in Israel, where it is currently on display as part of an exhibition titled “Sacred Goods.” 
+But some members of Israel’s Arab Christian minority see the sculpture as a disrespectful parody of their faith.  
+
+“We need to understand that freedom of expression is interpreted in different ways in different societies,” Wadie Abu Nassar, an adviser to church leaders in Israel told the Associated Press. “If this work was directed against non-Christians, the world would be turned upside down.”
+
+Protesters gathered outside the Haifa Museum of Art last week to demand the sculpture’s removal. Israeli police told the AP that some protesters threw stones that injured three officers. Police reportedly fired tear gas at people and used stun grenades. 
+On Monday, representatives for Christian churches in the region appeared at a district court to lodge complaints about the exhibition. They are seeking a court order to have the sculpture removed, the Times of Israel reported. 
+
+A Catholic leader in Haifa told the Israeli newspaper Haaretz that his church condemns violent protests around the artwork and supports the artist’s critique of capitalism — but not through the defacement of the crucifix.
+
+“We denounce the exhibition and the injury to the holiest symbol of Christianity by an institution that is supposed to serve citizens of all religions,” the Rev. Archimandrite Agapious Abu Sa’ada of Haifa’s Saint Elijah Cathedral told Haaretz.
+
+The 40-year-old artist behind the sculpture is also demanding its removal. Leinonen told the Israeli broadcaster Keshet on Sunday that he had joined the Boycott, Divestment and Sanctions movement (BDS), a campaign that seeks to get Israel to change its policies towards the Palestinians. Supporters of the controversial movement say it is meant to peacefully promote Palestinian political and civil rights by pressuring Israel into ending its occupation of the West Bank, granting Palestinian citizens of Israel full equality under the law, and giving Palestinian refugees a right of return. Opponents say BDS is an anti-Semitic effort to delegitimize Israel.
+
+Leinonen said he asked the Haifa Museum of Art to remove the artwork from its exhibition and was surprised to hear that it was still up. 
+
+“That annoyed me very much since the exhibit is displayed in the exhibition against my will,” he told Keshet, according to a translation by The Times of Israel.
+
+The Haifa Museum told Keshet that the McJesus sculpture was borrowed from a Finnish gallery as part of a contract and that it hasn’t received a request to remove it, the Times of Israel reported.
+
+Leinonen has also created alternative crucifixes that feature the Trix cereal’s rabbit mascot, Kellogg’s Corn Flakes’ Cornelius Rooster, and the maid that appears on boxes of a Finnish cereal brand.
+
+In addition to the McJesus sculpture, the “Sacred Goods” exhibit also features artwork depicting a crucified Jesus carrying shopping bags and wearing sneakers, and a “Ken Jesus Christ” ― a piece that reimagines Christ as a smiling Barbie doll.
+
+The museum’s director Nissim Tal said the exhibit has been on display for several months without incident. The backlash bubbled up after some of the artwork was shared on social media, the AP reported.
+
+Tal told the AP the museum doesn’t plan to take the McJesus statue down. In response to the protests, the museum placed a curtain over the exhibit’s entrance that blocks it from general view and posted a sign warning visitors about potentially offensive content.
+
+“This is the maximum that we can do,” Tal said. “If we take the art down, the next day we’ll have politicians demanding we take other things down, and we’ll end up only with colorful pictures of flowers in the museum.”
+",,,
+26,Anubhav,https://www.theguardian.com/world/2019/jan/17/putin-attacks-west-role-in-balkans-ahead-of-lavish-serbia-visit,Putin arrives in Serbia to honour leader and reinforce relations,"Vladimir Putin has arrived in Belgradeto bestow a top state honour on the Serbian leader Aleksandar Vučić, hoping to shore up one of the few strong bilateral relationships Russia has in Europe and reinforce Moscow’s claims to maintaining influence in the Balkans.
+
+Putin is popular in Serbia, where Russian opposition to the Nato bombing of the country in 1999 and the subsequent independence of Kosovo is still recalled fondly.
+
+Vučić, a former nationalist firebrand who now styles himself as a westerniser, has played a delicate balancing act in recent years, courting Europe while attempting to maintain good relations with Moscow.
+
+Putin, in interviews with Serbian media on the eve of his visit, lashed out at the west for trying to push Russian influence out of the Balkans. “The policy of the United States and some other western nations aimed at asserting their dominant role remains a serious destabilising factor here,” he said.
+
+His presidential plane was escorted over Serbian airspace by MiG-29 fighter jets he recently donated to Serbia.
+
+Western nations have expressed unease at what they believe to be Russian meddling in the region, including an apparent coup attempt in Montenegro, attempts at destabilisation in Bosnia and a humanitarian centre in southern Serbia that some western intelligence agencies believe has been a front for spying.
+
+Putin claimed the EU was forcing Serbia to make an “artificial choice” between Moscow and the west. He complained about the expansion of Nato into the Balkans, with Montenegro joining the military alliance in 2017 after a knife-edge referendum, and Macedonia now closer to joining after recently ratifying an agreement to change its name to North Macedonia and end a long-running dispute with Greece.
+
+Vučić, in an interview with the Guardian in Belgrade last year, insisted that Serbia’s priority was further integration with the EU, but said he wanted to keep warm relations with Putin.
+
+“We are militarily neutral, we have no aspirations to join either Nato or the Russian alliance,” he said. “Whenever I was having a press conference with Putin I was saying I was on an EU path. We have a good relationship with Russia and we have no problems with Russia but we are on our EU path.”
+
+In a ceremony, Putin will present Vučić with the Order of Alexander Nevsky, which in the past has been awarded to the autocratic leaders of Kremlin-friendly, post-Soviet countries.
+
+The Russian president will then meet one-on-one with Vučić as well as having a broader meeting with regional politicians including Milorad Dodik, one of the members of Bosnia’s tripartite presidency and the former president of Republika Srpska, the Serb-dominated part of Bosnia. He has courted Russian support and spoken openly of his desire for Republika Srpska to secede from Bosnia and join Serbia. Also present, according to local media reports, will be two Montenegrin politicians who have been accused by their country’s authorities of having links to the alleged Russian-backed coup attempt.
+
+Much of the agenda for Vučić and Putin will revolve around an EU-brokered settlement between Serbia and Kosovo, possibly involving an exchange of territories, that Vučić has been attempting to sign with his Kosovo counterpart, Hashim Thaçi. Both leaders are keen to sign a deal despite widespread opposition among their populations, and an unease about redrawing borders among much of the international community.
+
+The deal is likely to involve Serbia acknowledging Kosovo’s independence without formally recognising it, and would pave the way for Kosovo to join the UN and for both countries to join the EU. However, Russian support is crucial, given its veto on the UN security council, and Putin may not support a deal that puts Serbia further on the path to EU integration.
+
+Putin’s visit comes amid large-scale protests against Vučić in Belgrade. On Wednesday evening, thousands of protesters took to the streets of Belgrade for the latest instalment of the protests, which began in early December. The marches have decried lack of rule of law and media freedom under Vučić’s government, though Wednesday’s protest was specifically linked to the first anniversary of the murder of Oliver Ivanović, a Serbian politician in northern Kosovo.
+
+There were suggestions that the Serbian government was organising pro-Putin rallies in Belgrade on Thursday in an attempt to show it could also mobilise supporters, with the newspaper Jużne Vesti claiming that government workers in the southern city of Niš were being bussed into the capital to attend rallies.",,,
+27,Mukul,https://www.nytimes.com/2019/01/16/world/africa/nairobi-shabab-attack.html?rref=collection%2Fsectioncollection%2Fworld&action=click&contentCollection=world&region=rank&module=package&version=highlights&contentPlacement=8&pgtype=sectionfront,Death Toll Rises in Kenya Attack as Distraught Relatives Scramble,"By Reuben Kyama, Emily Oduor and Kimiko de Freytas-Tamura
+Abdalla Dahir and Feisal Ahmed were so close that they were almost always together. “If you couldn’t reach Abdalla, you called Feisal, and if you couldn’t reach Feisal, you called Abdalla,” said a mutual friend, Abdulahi Mohammed. “They even used to joke that they will one day die together.”
+
+That sentiment became a prophecy on Tuesday. The two men, who worked for a London-based development company with offices in Nairobi, Kenya, were killed while having lunch on a restaurant terrace in a luxury hotel and office complex stormed by Shabab militants.
+
+Kenya’s police chief, Joseph Boinnet, said Wednesday night that the fatalities had risen to 21 from 14, with six additional bodies retrieved from the attack site and the death of a police officer from injuries. The victims included an American and a British national.
+
+Distraught relatives were left to scramble for more information at morgues and hospitals, as the Red Cross set up teams to help deal with the casualties and to provide counseling.
+President Uhuru Kenyatta said in a speech to the nation that 700 civilians had been evacuated during the response to the assault.
+
+“We will seek every person involved in planning, funding and executing this heinous act,” he said.
+
+All the assailants had been “eliminated,” the president said, and a security operation was complete. He said the nation was on the highest alert “and shall remain so.”
+
+Gunfire could be heard in the complex earlier on Wednesday, even after the authorities said that all the buildings in the area had been secured.
+
+The attack underscored the persistence and potency of the Shabab, who are based in Somalia and have sought to impose their strict interpretation of Islam. The United States has spent hundreds of millions of dollars bankrolling anti-Shabab operations for years. The group carried out a deadly attack at the Westgate mall in the Kenyan capital in 2013 and several more since then.
+
+Mr. Kenyatta made clear in his speech that the fight against the Shabab and other militant groups would be a long one, while trying to strike an optimistic note.
+Editors’ Picks
+At Trump’s Inauguration, $10,000 for Makeup and Lots of Room Service
+Where 518 Inmates Sleep in Space for 170, and Gangs Hold It Together
+In 12 Minutes, Everything Went Wrong
+
+“We are also a nation that never forgets those who hurt her children,” he said. “We have prevailed against evil and shall continue to prevail.”
+The State Department confirmed late Wednesday that the American victim was Jason Spindler. His friend Kevin Yu described Mr. Spindler as a gregarious, adventure-seeking traveler who was the co-founder of an investment firm, I-DEV International, and had previous stints as an investment banker in New York and as a Peace Corps volunteer in Peru. He was an avid rock climber and camper who practically “lived on a plane,” Mr. Yu said.
+
+“He was interested in so many different things, and completely unafraid,” he said.
+
+Mr. Spindler grew up in Houston, studied with Mr. Yu at the University of Texas at Austin, and after graduation worked in finance in New York. He was in the city when the Sept. 11 attack occurred, and volunteered to help at the scene, Mr. Yu said. He added that Mr. Spindler’s parents were on their way to Nairobi; their son would have turned 41 next week, and they had planned to celebrate his birthday there.
+
+The Gatsby Charitable Foundation said that Luke Potter, its Africa programs director, was among the casualties. He had worked for the group for three and a half years, running projects in Kenya, Tanzania and Rwanda. The British Foreign Office identified him as a dual citizen of Britain and South Africa.
+
+Mr. Mohammed, the friend of Mr. Dahir and Mr. Ahmed, said he had spent much of the day at a morgue, where he had to identify the bodies and write a statement, in addition to providing fingerprints and a DNA sample.
+“They told us everybody is a suspect,” he said.
+
+The two victims had worked for Adam Smith International, which said that one of its employees had also been killed in the mall attack in 2013. The company said that 50 staff members and consultants had been evacuated during the more recent attack.
+
+The siege began around 3 p.m. Tuesday, when four men reportedly jumped out of a white car, opened fire at a security checkpoint and blasted their way into the complex. Security footage shows the gunmen calmly fanning out inside the complex before beginning their rampage.
+
+The police and counterterrorism forces quickly responded. Gun battles were fought and cars burned as the police rushed people out of the complex.
+
+“The operation was executed very strictly and precisely,” said Kenya’s interior secretary, Fred Matiang’i, speaking from the site of the attack shortly after the operation ended. “We are moving now to Phase 2,” which he described as “handling the criminals.”
+
+Ronald Ng’eno, who works in public relations, was in his office at the complex when he heard a loud explosion followed by gunshots. “We tried to escape, but we soon realized the attackers were coming from outside,” he said. “That’s when we decided to hide in a bathroom. Luckily, they didn’t come looking for us.”
+Mr. Ng’eno, 38, said the rescue had been well coordinated. “I can say the rescue mission was very swift; it was done very fast, otherwise the attackers would have found us.”
+
+Brenda Onguti, a health care worker, described being at the Secret Garden cafe when she heard a bomb and saw smoke, although she initially thought the source of the commotion was a gas cylinder.
+
+Her father, Dr. Meshak Onguti, said, “She sent me a message saying they had been attacked, and as time went on, she was saying, ‘I love you; it looks like the guns are now close to us.’”
+
+He added: “It was terrifying. She said she loved us, and that’s what affected us most.”
+
+A loud blast was heard coming from the complex on Wednesday, briefly startling those who heard it, but a journalist at the scene said it was part of a “mopping up” operation by the police, who were detonating grenades left by the attackers.
+
+Dusit International, which runs the DusitD2 hotel in the complex, said that the hotel had been temporarily closed and that guests had been taken elsewhere in the city, The Associated Press reported.
+
+In his speech, Mr. Kenyatta sought to project an air of normalcy, encouraging everyone to go about their daily business.
+
+“We assure every citizen and foreigner that you are safe,” he said.
+",,,
+28,Mukul,https://www.nytimes.com/2019/01/16/world/europe/spain-julen-rosello.html?rref=collection%2Fsectioncollection%2Fworld&action=click&contentCollection=world&region=rank&module=package&version=highlights&contentPlacement=6&pgtype=sectionfront,A 2-Year-Old Boy Is Trapped in a Well. Spain Is Watching.,"By Raphael Minder
+MADRID — The well is over 300 feet deep, but less than a foot wide. And somewhere in its depths a 2-year-old boy is believed to be trapped.
+
+Frantic efforts to rescue the toddler, Julen Roselló, have been underway in the countryside northeast of the port city of Málaga after he was said to have slipped down the well while his parents were preparing Sunday lunch.
+
+About 100 rescuers have been working at the site, covered round-the-clock by the Spanish news media, while Julen’s father has made repeated pleas on television for every effort to be made to find his son alive.
+
+On Wednesday, the authorities in southern Spain announced that according to a preliminary DNA test, hair found in mud excavated from the well was the boy’s, confirming his presence. He is believed to be more than 250 feet underground, beneath earth dislodged by his fall.
+
+The rescue operation includes specialists dispatched from Asturias, the coal mining region of northern Spain, as well as a Swedish company that provided the technology to help save 33 Chilean miners trapped for two months underground in 2010.
+
+To reach Julen, rescuers are drilling two separate tunnels, one of which runs closely parallel to the well while the other is designed to open an alternative horizontal access route, using as a starting point a platform excavated into the hillside near the well.
+
+They are also using special machinery to remove earth that is blocking access to the deepest section of the well, and installing a tube inside the shaft to reduce the risk of more earth falling into the well.
+
+José Roselló, Julen’s father, told reporters that “we have an angel that will help my son come out alive as soon as possible.” Julen’s parents already lost their first son, who died when he was 3 from a congenital heart defect.
+
+María Gámez, a local official in Málaga, told reporters on Wednesday that preliminary DNA testing was conducted on hair found within some of the muddy earth extracted from the well, which amounted to the first “scientific evidence” confirming that Julen was down below.
+Editors’ Picks
+Where 518 Inmates Sleep in Space for 170, and Gangs Hold It Together
+At Trump’s Inauguration, $10,000 for Makeup and Lots of Room Service
+The Itsy-Bitsy, Teenie-Weenie, Very Litigious Bikini
+
+Jesús Esteban Gutiérrez, a colonel from Spain’s military police, told local news media that a dozen teams were involved in the rescue operation, but the police had also received over 60 additional offers of help from companies worldwide. “We’ve lost count,” he said.
+
+The media spotlight on the rescue operation in southern Spain is reminiscent of that triggered by past efforts, like the one last year that saved 12 boys and their soccer coach who were trapped for more than two weeks in a flooded cave system in Thailand.
+
+Another hopeful parallel may be the case of Jessica McClure, who fell down an abandoned well in Texas as an 18-month-old in 1987, and remained trapped for 58 hours until rescuers completed a parallel shaft and pulled her out. She was caked with dirt, but healthy.
+",,,
+29,Aaditya,https://www.snopes.com/fact-check/jena-side/,Red Cross Supplies Jena Marchers,"American Red Cross and Jena, LA
+I thought that the mission of the American Red Cross was to help people in times of disaster. I have a problem with what I saw happening in Jena, La. yesterday. My problem is not with the people coming to Jena to march, they have that right, but with the American Red Cross giving away supplies to the marchers. The newspapers have stated that approximately 25,000 bottles of water were given out. I will not mention any medical care that was provided, but we do have a local hospital that offers excellent
+medical care, but not for free.
+
+I sat on the balcony of my office and watched the marchers arriving carrying no supplies, but when they left Jena they were carrying bottles of water that was supplied by your organization. These people were not in a disaster mode, they knew what they were getting into when they came to rally, and should have planned better and brought their own supplies.
+
+I had a house burn in 1985 and lost everything, including my cars and dog, but never got a call or note from the Red Cross. I did not mind that I was not contacted by you and have not ever given it a second thought until yesterday. I have donated faithfully to the Red Cross for the better part of my 56 years, but no more.
+
+I know that in the scheme of things I am just a small drop in the bucket, but I will tell everyone that I know what has happened here, and maybe this small drop will turn into a flood. And yes you can use my name
+it is James L. Broadwell 111, my address is 329 Pleasant Hill Road, Jena, La. 71342",,,
+30,Anubhav,https://www.theguardian.com/us-news/2019/jan/17/kentucky-newspaper-removes-criticism-of-trump-from-obituary,Kentucky newspaper removes criticism of Trump from woman's obituary,"A newspaper in Kentucky has apologised after refusing to print a line in an obituary of an 87-year-old woman that suggested frustration with Donald Trump had hastened her death.
+
+The sentence omitted from the obituary of Frances Irene Finley Williams read: “Her passing was hastened by her continued frustration with the Trump administration.” Laurie Bolle, the director of sales for Gannett, the company that owns the Courier-Journal newspaper in Louisville, said the decision to cut the line was “a mistake”.
+
+“Mrs Williams’s obituary should have published as it was presented to our obits team and as requested by the family,” said Richard A Green, the Courier-Journal’s editor.
+
+He added: “In this political climate we now find ourselves, partisanship should have no role in deciding what gets included in an obituary that captures a loved one’s life — especially one as amazing as what Mrs Williams led. I’m certain she is missed greatly by those who loved her. We send the family our deepest condolences and apologies.”
+
+Williams died just before Thanksgiving last year. Her daughter, Cathy Duff, said her brother had told her on Christmas Eve that the Cremation Society of Kentucky, which had been dealing with the obituary, had received an email from Gannett saying: “Per our policy, we are not able to publish the obituary as is due to the negative content within the obituary text.”
+
+The email, seen by the Washington Post, added: “You are more than welcome to remove the negative content so we may move forward with publishing if you wish.”
+
+The family agreed to remove the line referring to Trump but Williams’s son, Art Williams, wrote a Facebook post on 5 January that said: “I was, and still am, dumbfounded, surprised, but most of all disappointed and aghast that a once historically courageous American newspaper that exists by reason of freedom of speech would so trivially move to abate the free speech that it seems, when convenient, to hypocritically champion.”
+
+The post prompted a backlash against the paper.
+
+Duff said politics had been a “vital part” of her mother’s personality, which was why she had wanted to include the line in the obituary, which cost $1,684 to publish.
+
+Her mother’s interest in politics stemmed from growing up in the Great Depression, experiencing poverty that she felt could have been prevented, she said.
+
+Duff said Green called the family to apologise on Tuesday and informed them that the obituary would run in full.",,,
+31,Anubhav,https://www.theguardian.com/world/2019/jan/17/gisele-bundchen-hits-back-at-ministers-bad-brazilian-jibe,Gisele Bündchen hits back at minister's 'bad Brazilian' jibe,"The Brazilian model Gisele Bündchen has rebutted an extraordinary attack by Brazil’s agriculture minister, who called her a “bad Brazilian” for her environmental activism and said she did not know “the facts”.
+
+Bündchen said the “bad Brazilians” were those responsible for Brazil’s worst deforestation figures in a decade.
+
+In a letter addressed to the minister, Tereza Cristina Dias, published in Brazilian media, Bündchen lamented government figures showing deforestation had increased by more than 13% in a year.
+
+“An immeasurable heritage threatened by illegal deforestation and the squatting of public lands. These, yes, are the ‘bad Brazilians’,” she wrote.
+
+In a tweet, she said: “Since 2006 I have been supporting projects and getting involved in socio-environmental causes”. In the letter she said that her grandparents were farmers, so she understood the importance of agriculture to Brazil.
+
+The war of words has highlighted rising international concern over the future of the Brazilian Amazon under the government of the far-right president, Jair Bolsonaro.
+
+Bolsonaro has attacked the “fines industry” of environmental protection agencies. His foreign minister, Ernesto Araújo, regards global warming as a Marxist plot. And the environment minister, Ricardo Salles, this week suspended contracts with non-government bodies for 90 days and promised surprise visits to check what they were doing with government money.
+
+In 2017, Bündchen criticised Brazil’s then president, Michel Temer, over plans to remove protected status for a large area of the Amazon – a move Temer later revoked. Last November she tweeted her opposition to Bolsonaro’s plans to fuse the environment and agriculture ministries – an idea that, along with withdrawing Brazil from the Paris climate deal, he later gave up on.
+
+Dias made her comments in a radio interview on Monday. Bündchen countered Dias’s accusation that she did not know “the facts”, pointing out in the letter that she had been to the Amazon, was a United Nations environment goodwill ambassador and had taken part in the launch of the Global Environment Pact at the UN general assembly in 2017 at the invitation of the French president, Emmanuel Macron.
+
+She said she had “participated in countless meetings with corporate presidents, universities, scientists, researchers, farmers and environmental organisations, where I was able to exchange information and learn more and more about how to take care of our planet”.
+
+She said technology and scientific advances had to be used in favour of agriculture and to prevent deforestation from going past a point of no control.
+
+“I see the preservation of nature not only as a legal environmental duty but also as a way to ensure water, biodiversity and climatic conditions essential for agricultural production,” she wrote. “I hope that during your mandate, concrete actions that result in a more sustainable, prosperous and just Brazil can be celebrated.”
+
+Dias thanked the model for her “kindness” and said she would invite her to take part in a “positive agenda that brings agriculture and preservation together”.",,,
+32,Mukul,https://www.nytimes.com/2019/01/11/world/europe/uk-nissan-figaro.html?rref=collection%2Fspotlightcollection%2Fdispatches-international,This Quirky Car Is Japanese. But There’s ‘Something Very British’ About It.,"By Richard Pérez-Peña
+LONDON — It just might be the most adorable thing on four wheels. People smile when one cruises by. They point, they wave, they use the word “cute” a lot, and they ask, “What is that?”
+
+The tiny Nissan Figaro has an almost cartoonish design that is guaranteed to stand out. To an American living in Britain, who regularly spots pristine Figaros, it would appear to be a highly popular model that was made recently.
+
+Every part of that guess is wrong: The Figaro is rather old, built for the 1991 model year, and there never were large numbers anywhere. Nissan never even exported it from Japan.
+
+Yet here it is in Britain, in the thousands, an oddball little convertible with an ardent following and a back story that is even odder.
+More on that in a minute.
+
+Britain never had dominant carmakers like Ford, General Motors and Chrysler. Instead, for generations, it had a profusion of small-to-medium manufacturers.
+
+Those carmakers produced a much wider array of designs than their American counterparts, a good number of them quirky, small, underpowered, none too practical — and beloved by their many admirers.
+
+But in the face of foreign competition, recessions, bankruptcies and consolidation, British car manufacturing plummeted from its peak in the early 1970s. Brands like Morris, Triumph, Austin, Sunbeam, Daimler, Rover and Reliant died off.
+
+An increasingly competitive and global market had less room for eccentric cars, British or not, or for models that sell only a few thousand.
+“Cars have lost their personality,” said Nic Caraccio, a devoted Figaro owner and trader who lives outside London. “If you go out on the street now, the Citroëns and Vauxhalls and Skodas and Peugeots, they’re all black or white or silver, and they all look the same. Not the Fig.”
+
+Definitely not. And it is the look that entices people here — the curvy, throwback shape, and the front end that could have been the face of one of the animated characters in the movie “Cars.”
+
+“The quirkiness, there’s something very British about it, isn’t there?” said Colin Bullock, a harbormaster in London. “It’s so familiar to people, even if they’ve never seen it before. They say, ‘Oh, I used to have one of those in 1962,’ which is impossible, and I just smile.”
+
+Owners join Figaro clubs and Facebook groups, give their cars names, often buy more than one per family, and sometimes pay over 10,000 pounds, or $12,500 — more than the car cost new.
+They drive in Figaro rallies and attend classic car shows, proudly displaying their budget compacts the way other people show off their pricey Aston Martins and Rolls-Royces.
+
+People who took their Figaros to a show in Guildford, a town southwest of London, said one of its best features was the built-in social circle. That comes in handy when the owner’s manual is written only in Japanese.
+
+“The one thing that worried me when I met my husband, Ian, was whether he would love the car,” said Zoe Collier, who lives in Surrey, runs training courses and calls her car Figlet. He did.
+
+The Figaro may look a bit like a sporty roadster, but performance is hardly the point. It has a small engine, just under one liter, and the only transmission available was a pedestrian three-speed automatic.
+It has an unusual “fixed profile” convertible roof — the middle folds down, but the sides stay put. The legroom in what passes for a back seat would cramp all but the smallest passengers.
+
+“It really harks back to the more interesting cars in the past, when there was more of a homegrown industry,” said Steve Huntingford, the editor of the British car buying magazine What Car? “A lot of people really loved those cars.”
+
+Vehicle production in Britain gradually recovered from its 1980s nadir, but what has emerged is an industry that is not very British. There are six large-scale carmakers in the country — and every one is foreign-owned.
+
+Niche luxury brands of British heritage like Bentley, Rolls-Royce and Lotus are also now foreign-owned, as is the maker of London’s famed black cabs. The few British makes that are manufactured in Britain by British companies, like Aston Martin and Morgan, account for less than 1 percent of the country’s car production.
+For many years, it has hardly mattered to the British market where cars were made; most vehicles made here are exported, most sold here are imported, and membership in the European Union allows for seamless trade with 27 other countries.
+
+It could begin to matter a great deal if Britain leaves the union, as it is scheduled to do on March 29. Manufacturers worry that new trade barriers will obstruct both their international supply chains for parts, and the movement of finished products.
+
+Analysts say that is unlikely to create a renaissance in British manufacturing for British consumption, much less a return of the idiosyncratic products of old. People looking for something really out of the ordinary will have to keep turning to rarities like the Figaro.
+
+Nissan built the Figaro in pale shades of aqua, green, gray and taupe — one of a few idiosyncratic, limited-edition models the company made in that era.
+The company originally planned to build just 8,000 Figaros, priced at about $8,300, and strictly for the Japanese market.
+
+Even before sales began, it was clear that demand would far exceed that figure, so Nissan held a lottery to choose its buyers. Celebrities were among those in the running, generating still more interest.
+
+Nissan expanded production to 20,000, but even so, most would-be buyers were turned away. Despite the unmet demand, the company stuck to its plan to make the car for just one year.
+
+From early on, a very few appeared in Britain, as people visiting Japan — including Eric Clapton — bought Figaros and had them shipped home.
+
+The car required only minor modification to be street legal in Britain, and drivers here, as in Japan, sit on the right side of the car.
+
+Until 2016, the Figaro was barred from the United States because it did not meet emissions and safety standards, but cars become exempt from those rules 25 years after they are made.
+
+It took several years before a semiregular pipeline to Britain was created by people like Mr. Caraccio, who buy, repair and resell cars, and who began going to Japan to find Figaros and send them back a few at a time. The first big Figaro gathering here was held in 2008.
+
+More than 3,000 of the cars are registered as being in active use in Britain, but numbers are no longer rising, and the pipeline has slowed to a trickle.
+
+“There’s only so many, and they’ve been around awhile,” said Peter Pattemore, who drives a Figaro (named Jimmy), as does his wife, Sandra (hers is Sally). “But we’re going to keep them as long we can.”
+
+",,,
+33,Aaditya,https://www.jta.org/1988/07/20/archive/orthodox-child-with-rare-ailment-is-rescued-aboard-tycoons-jet,Orthodox Child with Rare Ailment is Rescued Aboard Tycoon’s Jet,"The private Boeing 727 of real estate tycoon Donald Trump arrived from Los Angeles at LaGuardia Airport Tuesday morning, carrying aboard an Orthodox Jewish child with a rare and still undiagnosed breathing illness.
+
+The child, Andrew Ten, age 3, arrived with his parents — accompanied by three nurses who attend to him around the clock — to try to seek medical help in the New York area.
+
+Trump made his plane available for the special trip to New York after the boy’s parents, Judy and Harold Ten, called Trump and told him of their plight.
+
+Commercial airlines refused to fly the child because he could not travel without an elaborate life-support system, which includes a portable oxygen tank, a suction machine, a breathing bag and an adrenaline syringe.
+
+“Mr. Trump did not hesitate when we called him up. He said ‘yes, I’ll send my plane out,'” 29-year-old Harold Ten recalled shortly after he landed here Tuesday morning.
+
+Asked why he thought Trump made his private jet available, Ten replied, “Because he is a good man. He has three children of his own and he knows what being a parent is all about.”
+
+Ten said he believes that Trump fulfilled the Talmudic saying that “he who saves one person’s life is as if he saved the entire world.”
+
+Among the relatives at the airport to greet the child and his parents were the paternal grandparents of the sick boy.
+
+“Donald Trump is a miracle, just a miracle,” said grandmother Feigy Ten, who came to the airport with her husband, Phillip Ten.
+
+Both grandparents thanked Trump’s generosity over and over again.
+
+Andrew, who is called by his Hebrew name, Avraham Moshe, was taken from the airport to the Schneider Children’s Hospital of Long Island Jewish Medical Center for treatment and evaluation.
+
+Andrew was healthy at birth, but one morning when he was 10 months old he suddenly stopped breathing. The second incident occurred six months later. Doctors had no explanation and to date have not determined what is causing him to stop breathing.
+
+Andrew has not cried in the last two-and-a-half years. He now eats with a feeding tube since he lost his gag reflex and the ability to swallow. He is monitored around the clock by nurses, and sleeps with an apnea alarm.
+
+Harold Ten said he and his family “are determined to do anything possible to save Andrew. We believe in God and we have hope,” he said.",,,
+34,Anubhav,https://www.theguardian.com/politics/2019/jan/16/germany-and-france-signal-willingness-to-delay-brexit,Germany and France signal willingness to delay Brexit,"Germany and France have signalled their willingness to delay Brexit as Michel Barnier offered to renegotiate with Theresa May in the event that she is able to build a majority with Labour in favour of a closer relationship with the EU.
+
+EU ambassadors also discussed the issue for the first time at a meeting in Brussels on Tuesday, as the member states attempted to decide on their terms for extending the negotiating time beyond 29 March.
+
+With Downing Street opening cross-party talks after the government’s historic defeat, EU politicians and officials were looking ahead in case the prime minister finds a majority in the Commons for a fresh approach.
+
+On Tuesday night, Emmanuel Macron, coming to the end of a seven-hour town hall meeting as news of May’s Brexit vote defeat came through, said he believed the British government would seek an extension to article 50 in order to renegotiate the deal before a second parliamentary vote. “I think that’s what they’ll do. I know them a bit,” said the French president. “In that case, we’ll look into it, and maybe we’ll make improvements on one or two things.”
+
+However, he cautioned: “We’ve reached the maximum for what we can do with the deal.” He warned that the EU would not stop defending European interests “just to solve Britain’s domestic political issues”.
+
+He added that the whole basis for Brexit was flawed: “It’s a referendum that has been manipulated, manipulated from outside by a lot of what we call fake news.”
+
+Peter Altmaier, Germany’s economics minister, suggested he would see it “as a reasonable request” if the UK wanted an extension. Nathalie Loiseau, France’s EU affairs minister, confirmed that a delay would be possible in the right context.
+
+A similar argument was made by Barnier, the EU’s chief negotiator, during a late-night private meeting with senior members of the European parliament in the hours immediately after the Commons vote. The EU has previously suggested that only a general election or second referendum could persuade them to delay Brexit.
+
+On Wednesday, Macron became the first EU leader to publicly raise the prospect of an extension beyond European elections in May. “Maybe they will step over the European elections in order to find [negotiate] something else,” Macron said, comments that represent a subtle shift in tone, as France has long insisted that there could be no prolongation of article 50 beyond the elections.
+
+During Wednesday’s meeting of ambassadors and senior EU officials, several member states raised the issue of extending the two years allowed under article 50 for withdrawal talks.
+
+It is hoped that May might be able to construct a cross-party position to avoid a no-deal Brexit. Labour has said that it would support a deal involving a permanent customs union, a position that the prime minister nevertheless reiterated her opposition to on Wednesday.
+
+Speaking to a full chamber of the European parliament in Strasbourg on Wednesday, Barnier said the motivations of the MPs who delivered the rebuff to May – a defeat by 230 votes, the largest ever for a sitting government – were “contradictory”.
+
+He said the Commons had failed to offer an alternative vision, and warned May that no progress could be made until she found a majority for a deal. “Objectively speaking, this vote is not a clear manifestation of a positive majority which would define an alternative project, and an alternative to the proposal on the table today,” Barnier said.
+
+“So, in this context, it is up to the British authorities today or tomorrow to assess the outcome of this vote, and up to the British government to find how we are to take things forward on 29 March towards an orderly withdrawal.”
+
+Barnier, whose speech was applauded by MEPs despite the problems being faced in ratifying the deal he brokered, told the parliament that he would not speculate on the “scenarios” opening up following the rejection of the deal. “Now, with this standstill, until we have found a way forward which will see a full majority we won’t be able to move forward, so this is why the future steps must be indicated very clearly … by the British government,” he said.
+
+But the former French minister added: “I would like to remind you that your parliament, and unanimously the European council, have always said that if the UK chooses to shift its red lines in the future, and it makes that choice, a choice to be ambitious, and go beyond a simple free trade agreement, which would be quite something, then the European Union will be immediately ready to go hand in hand with that development and to give a favourable response.”
+
+The German chancellor, Angela Merkel, said on Tuesday that there would be time to negotiate, but that it was “up to the British side, as the prime minister has announced, to tell us what happens next”.
+
+The EU is willing to reopen the political declaration on the future relationship, a 26-page document that is not legally binding, but remains highly resistant to any suggestion of unpicking the 585-page withdrawal agreement.
+
+Barnier told MEPs that whatever emerged from future talks, the withdrawal agreement would still need to contain the contentious Irish backstop for avoiding a hard border, which Brexiters fear will trap the UK in a customs union.
+
+Philippe Lamberts, the leader of the Greens in the European parliament, said the withdrawal agreement containing the backstop would likely be received by rapporteurs, the MEPs who would present the draft to the chamber, next week as the EU continued on with its ratification process. “The withdrawal agreement will not be reopened because whatever deal we have, we need that”, he said.
+
+Critics of May’s deal have called for a time limit or unilateral right to exit the arrangements. Barnier told MEPs: “The backstop that we agreed with the UK must remain a backstop, must remain a credible backstop. The backstop must remain a backstop.”
+
+While EU officials once ruled out the UK remaining in the EU beyond elections in May 2019, attention is turning to legal fixes to permit an extension if Brexit talks drag on through the summer.
+
+One idea is writing text into the 585-page withdrawal agreement that would allow British representatives to sit in the parliament Brussels and Strasbourg temporarily. The model would be a reverse copy of arrangements for countries joining the EU, when national parliaments send delegates to the European parliament if they join halfway through a term.
+
+But not everyone agrees with this analysis. “The logical consequences of an extension is that they will have to participate in European elections,” the senior official said. EU lawyers have yet to express a view.",,,
+35,Mukul,https://www.nytimes.com/2019/01/14/world/canada/rahaf-mohammed-alqunun-interview.html,"Saudi Teenager Who Fled Family Embraces All Things Canadian. (O.K., Maybe Not Winter.)","By Catherine Porter
+
+    Jan. 14, 2019
+
+TORONTO — She wants to go to college to study architecture. She would like to take English classes. She is wondering about how to harness her newfound media stardom.
+
+But mostly, the celebrated Saudi-turned-Canadian-refugee Rahaf Mohammed Alqunun just wants to experience what it is like to be a teenager, free to do what she wants and dress how she wants.
+
+“I want to do crazy things I’ve never done before,” she said in an interview Monday evening, sitting in a classroom at a refugee center in downtown Toronto.
+
+On just her third day in Canada, Ms. Alqunun, 18, seemed to be still a bit stunned.
+
+In less than two weeks, she has gone from the cloistered life of a Saudi woman in Hail, a city in the northwestern part of the country, to the life of an independent woman on the other side of the world.
+
+Now she can do things unimaginable for a woman at home.
+
+“From the welcome I had and love I’ve been shown, I saw this is a country that respects human rights and the dignity of a person,” Ms. Alqunun said through an interpreter. “It’s also cold.”
+
+(It was 30 degrees Fahrenheit in Toronto on Monday — 38 degrees colder than in Hail.)
+
+Ms. Alqunun became a social media sensation, and a cause célèbre for the rights of women and refugees, after fleeing her family on Jan. 5 while they were on holiday in Kuwait.
+
+Freed from the restrictions on women’s movement back home in Saudi Arabia, and using a friend's credit card, she bought a ticket for a flight to Australia with a layover in Bangkok — where Thai officials said they would send her back home.
+
+Ms. Alqunun spent six nights holed up in a Bangkok airport hotel, opened a new Twitter account and mounted a campaign for asylum. “I’m afraid, my family WILL kill me,” she tweeted, adding later that her family had threatened to kill her before and considered her “as property or their slave.”
+
+Furthering her danger, she renounced Islam on Twitter. “They will kill me because I fled and because I announced my atheism. They wanted me to pray and to wear a veil, and I didn’t want to.”
+Editors’ Picks
+Where 518 Inmates Sleep in Space for 170, and Gangs Hold It Together
+At Trump’s Inauguration, $10,000 for Makeup and Lots of Room Service
+Cancer Pushes New York’s ‘First Girlfriend,’ Sandra Lee, Onto Political Stage
+
+International outrage over the attempts to send her back to Saudi Arabia quickly mounted.
+
+Although Ms. Alqunun had planned to fly on to Australia, the Canadian government granted her asylum. On Saturday morning, she arrived at the Toronto airport, where she was greeted by the Canadian foreign minister and a phalanx of reporters.
+In Saudi Arabia, Ms. Alqunun was a first-year university student, studying basic science and math. One of 10 children of a well-off emir, she said that life had been financially comfortable, but that she had no freedom.
+Things grew even harder, she said, when her father left the city and put her under the guardianship of her older brother. She described her life as one of strict rules and abuse at the hands of her family. After she cut her hair in a way her family did not approve, her brother locked her in a room for six months, she said. A few months ago, when she removed her niqab, he beat her and locked her up again, she said.
+
+After days of silence, the first comments about the case have emerged from Saudi Arabia. In a statement, the head of the Saudi government-funded National Society for Human Rights accused countries of inciting “Saudi female delinquents” to rebel against their family values and seek asylum. He called the actions political, not humanitarian.
+
+The case is sure to further fray relations between Canada and Saudi Arabia, which have been strained since last summer, when Canada’s foreign affairs ministry posted two Twitter messages calling for the release of imprisoned rights activists in Saudi Arabia. In response, the kingdom expelled the Canadian ambassador to Riyadh, recalled the Saudi ambassador to Ottawa, froze all new trade and investment deals, and ordered thousands of Saudi students studying in Canada to transfer elsewhere.
+
+The Canadian government, however, did not back down.
+
+Canada accepts tens of thousands of refugees a year, but few have Ms. Alqunun’s stardom or powerful, if newly formed, network. In just over one week, she has garnered 176,000 Twitter followers, forged relationships with human rights activists and been on the front pages of newspapers around the world.
+
+No fewer than three GoFundMe campaigns have been launched in her name, raising more than $12,900 (17,200 Canadian dollars) already.a
+
+Fame has come with its price though. She has received death threats online, credible enough for refugee settlement workers to provide her with security.
+
+And Ms. Alqunun says she misses the kinship with her sisters, and worries that her family will take out its anger on her younger sister, who is still at home.
+
+Ms. Alqunun had once hoped simply to fashion a normal life. Now, she is contemplating whether she should put her unexpected platform to use.
+
+“I have a lot of followers,” she said. “My voice is heard. Maybe I can do something with it.”
+
+But first, she will need to do some basics. The Canadian government offers refugees financial support for a year — and free English classes.
+
+Over the next few weeks, refugee settlement workers will also help her get health insurance, a social insurance number and bank account. They will help her find an apartment and furnish it.
+
+But Ms. Alqunun will have to learn how to go grocery shopping, and navigate the city on the bus and subway by herself — the sort of things she has never experienced before.
+
+“It’s like moving from one planet to another. Nothing is the same,” said one Canadian women’s rights activist, Yasmine Mohammed, who helped raise more than $7,600 for Ms. Alqunun. “She has to focus on herself and her mental health before she tries to help other people out.”
+",,,
+36,Anubhav,https://www.theguardian.com/us-news/2019/jan/17/rudy-giuliani-i-never-said-there-was-no-collusion-by-trump-campaign,Rudy Giuliani: 'I never said there was no collusion' by Trump campaign,"Donald Trump’s personal attorney, Rudy Giuliani, has insisted that he “never said there was no collusion” between Trump’s 2016 presidential election campaign and Russia – only that Trump himself was not involved.
+
+The former New York mayor said he did not know if others involved in the campaign had worked with Russia.
+
+“I never said there was no collusion between the campaign, or between people in the campaign,” Giuliani said on CNN on Wednesday night.
+
+“I said the president of the United States,” he added.
+
+Later in the interview, Giuliani said: “If the collusion happened, it happened a long time ago.”
+
+But he once again defended the president.
+
+“There is not a single bit of evidence the president of the United States committed the only crime you can commit here, conspiring with the Russians to hack the DNC,” he said, referring to the hacking of the Democratic National Committee and leaking the emails of senior Democrats during the 2016 presidential election campaign.
+
+Thousands of emails taken from the accounts of staff at the DNC and John Podesta, Hillary Clinton’s campaign chairman, were published by outlets including WikiLeaks.
+
+On Tuesday, Trump had been obliged to state that he “never worked for Russia” following two reports that he may have been used as an asset by Moscow.
+
+“It’s a disgrace that you even ask that question,” he told reporters on the White House lawn. “It’s all a big fat hoax.”
+
+Both men’s comments come as special counsel Robert Mueller’s investigation into allegations of links between the Trump campaign and Russia, and obstruction of justice, looms large, punctuated by guilty pleas, convictions and indictments of former Trump associates.
+
+These include his former national security adviser Michael Flynn, former Trump campaign chief Paul Manafort and Trump’s former personal lawyer Michael Cohen.
+
+Manafort has admitted to sharing polling data with a Russian during the 2016 presidential race, according to a court filing inadvertently made public by his lawyers.
+
+But on Wednesday, Giuliani suggested that was “not collusion”, a change of stance from multiple previous statements such as one given to Axios in November about the Mueller investigation that: “I don’t think they have any evidence of collusion of any kind.”
+
+“Polling data is given to everybody,” he told CNN on Wednesday.
+
+Meanwhile, the Wall Street Journal reported on Thursday that Michael Cohen tried to rig online opinion polls in Trump’s favor before the 2016 election, when he was still acting as the candidate’s personal attorney and fixer.
+
+In response, Cohen tweeted on Thursday morning: “As for the @WSJ article on poll rigging, what I did was at the direction of and for the sole benefit of @realDonaldTrump @POTUS. I truly regret my blind loyalty to a man who doesn’t deserve it.”
+
+The Journal reported that Cohen is accused of paying a polling company to rig online results to Trump’s advantage, although the attempts were unsuccessful.
+
+Cohen was sentenced to three years in prison in December for crimes including lying to Congress and facilitating illegal payments to silence two women, Stormy Daniels and Karen McDougal, who alleged affairs with Trump. He has been cooperating with prosecutors and has agreed to testify to Congress in February.",,,
+37,Anubhav,https://www.theguardian.com/world/2019/jan/16/china-has-some-of-worlds-most-advanced-weapon-systems-pentagon-warns,"China has some of world's most advanced weapon systems, Pentagon warns","China is on the cusp of fielding some of the world’s most advanced weapons systems – and in some cases already has surpassed its rivals, a Pentagon assessment found.
+
+An unclassified report by the Defense Intelligence Agency says Beijing has made enormous military strides in recent years, thanks partly to domestic laws forcing foreign partners to divulge technical secrets in exchange for access to China’s vast market.
+
+As a result of “acquiring technology by any means available,” China now is at the leading edge on a range of technologies, including with its naval designs, with medium- and intermediate-range missiles, and with hypersonic weapons – where missiles can fly at many times the speed of sound and dodge missile-defense systems.
+
+“The result of this multifaceted approach to technology acquisition is a PLA (People’s Liberation Army) on the verge of fielding some of the most modern weapon systems in the world,” states the report, entitled “China Military Power.”
+
+“In some areas, it already leads the world.”
+
+China’s increasing military might means it has advanced capabilities in the air, at sea, in space and in cyberspace that will “enable China to impose its will in the region,” the report notes.
+
+A particular focus for Beijing has been the prospect of an eventual conflict with Taiwan, which China sees as part of its territory.
+
+Beijing has said it will not hesitate to use force if Taipei formally declares independence, or in the case of external intervention – including by the United States, the island’s most powerful unofficial ally.
+
+Speaking to Pentagon reporters, a senior defense intelligence official said he was worried China’s military is now advanced enough that PLA generals could feel confident they could invade Taiwan.
+
+“The biggest concern is that as a lot of these technologies mature... [China] will reach a point where internally within their decision-making they will decide that using military force for a regional conflict is something that is more imminent,” the official said on condition of anonymity.
+
+Taiwan is a self-ruled island and has its own currency, flag and government, but is not recognized as an independent state by the United Nations.
+
+Still, the official noted, China has not fought in a war for 40 years and its massive military and joint command structure lacks experience in real-world conflict.
+
+“It will take a while for [the PLA] to be able to work these [military] services together, to be able to work these joint theaters and to be able to deal with a large, complex operation,” the official said.
+
+The intelligence report said China is developing new medium- and long-range stealth bombers capable of striking regional and global targets.
+
+Such planes will likely reach initial operational capability by about 2025, the report notes.
+
+The official added that China keeps a lot of its military development secret by conducting research in underground complexes, away from the prying eyes of satellites.",,,
+38,Mukul,https://www.nytimes.com/2019/01/17/arts/design/national-parks-ansel-adams-photography.html,Ansel Adams in a New Light,"By Vicki Goldberg
+BOSTON — Ah, wilderness! It’s our answer to Europe’s cathedrals, our proof of a unique national identity.
+
+Most citizens were first introduced to the wilderness by images. In the early 19th century, Thomas Cole placed the eastern wilderness — his beloved Catskill Mountains — on walls. Later in the century, Carleton Watkins’s 1861 photographs of Yosemite contributed heavily to Lincoln’s decision in 1864 to secure the valley forever “for public use, resort and recreation,” the first time any government anywhere set aside land to benefit the public.
+
+William Henry Jackson’s 1871 photographs of Yellowstone helped persuade Congress to establish the first national park in 1872. Then in the 1930s, Ansel Adams (1902-1984), a staunch conservationist who had grown up near the windswept dunes of Golden Gate Park, lobbied Congress and sent the government a book of his photographs of the southern Sierra Nevada range. They strongly influenced President Franklin Roosevelt’s decision to make the Kings Canyon area a national park.
+
+Late in the century virtually every home had a viewer for 3-D stereographs of a West that looked like a fable. Manifestly — in mind-set as well as mission — the West was our destiny.
+
+And now it is bracing — if perhaps cautionary — to see, close to the moment that the government shutdown has affected many of the national parks, so many noble and challenging images of our country’s heritage starring in “Ansel Adams in Our Time,” at the Museum of Fine Arts in Boston. It is a far-ranging, smartly and instructively installed show of more than 100 of his photographs.
+
+Not a mere retrospective, it also includes about 80 images by 23 contemporary photographers that the curator, Karen Haas, sees as a modern lens on Adams. Although the connections are occasionally a bit tenuous, their addition highlights how Adams, who carried the 19th century’s hymn to America into the 20th century, has remained an inescapable force.
+
+The photographers on view who adapt Adams’s images simultaneously make radical changes and commentaries. Their inclusion points out major shifts in the way both landscape photography and landscape itself are now regarded.
+
+Although Adams gave his heart to the 19th century, he trained his eye on modernism and the “straight photography” of the 1930s, with its sharp focus, vivid contrast and compositions that amounted to studies in form and light. His iconic and still breathtaking mountainscapes of Yosemite and elsewhere are on view, as well as such semiabstract landscapes as “Sand Dunes, Sunrise, Death Valley National Monument, California,” which could stand comfortably beside an Edward Weston.
+
+Most come from the Lane Collection, a munificent gift of more than 450 Adams photographs to the M.F.A. There are surprises too, like the breadth of Adams’s interests (and the extent of his need to earn a living with commissions and magazine work), from Native Americans to ghost towns, from a World War II Japanese internment camp to cemeteries, churches, a cigar store Indian, a highway interchange.
+Sign up for the Louder Newsletter
+
+Stay on top of the latest in pop and jazz with reviews, interviews, podcasts and more from The New York Times music critics.
+
+Like Ralph Waldo Emerson, Adams experienced a heightened spirituality in the wilderness that spoke to a longing for the beauties, peace and spectacle of untrammeled nature — a yearning that lingers strongly in our time, suggesting it might be innate.
+
+He was 14 when he first visited Yosemite. He quickly took his Kodak into that stupendous valley and was so moved by the experience that it changed his life. Adams meant his images to convey the emotions he experienced while taking pictures and then heightening their impact in the darkroom. (He was a superb printer.) How lucky it is for the arts that human vision, though it does not register the world in black and white, can respond to colorless representation on a level within reach of its response to color.
+
+Landscape tourism grew exponentially from the post Civil War years to today, but untouched wilderness has dwindled as the population increased and migrated to cities and suburbs, while mining, drilling and industrialization encroached on open spaces. Adams, though well aware of how commercialized the national parks had become, could scarcely have anticipated that on summer weekends the grounds bordering the Grand Canyon would look like Woodstock.
+
+He preferred the parks pristine, and Eadweard J. Muybridge’s 19th-century photograph of Yosemite Valley with a logging road cutting across it is paired at the M.F.A. with Adams’s image of the same place, the road carefully retouched out.
+
+Photographers took note of how “progress” had changed the land. In the 1960s and 1970s, the movement called New Topographics signaled a radical shift from traditional depictions of the land to the many ways we had altered it.
+
+Robert Adams, Lewis Baltz and others photographed what had once been purple mountains’ majesty — mountains now more likely to tower above rutted lanes and ticky-tacky houses. Adams took some note as well. His photograph of a housing development is at the M.F.A., as is his picture of a pensive cemetery statue that makes it clear that the cemetery borders on a forest — of oil derricks.
+
+The New Topographers were determined to acknowledge the slow decline of wilderness, which had been trampled in part by the lingering wish to be near nature, a wish that bit its own tail. Many of the houses destroyed by the recent Northern California fires were located in what’s called the wildland-urban interface, dangerously close to forests.
+
+In the late 1970s, a group called the Rephotographic Project figured out exactly where and in what season some important 19th-century landscape photographers had stood, then made photographs at the exact same times and places. The landscape, often enough, was quite recognizable but equally often overrun or partially obstructed by buildings.
+
+Nonetheless, art and commercial photographers today still photograph beautiful landscapes beautifully. Landscape photographs are everywhere, thanks to Instagram, providing proof that wilderness still exists, although it may be outnumbered by its portraits.
+
+SOME CONTEMPORARY PHOTOGRAPHERS ask a vital question of art history: What can be done with a scene that long ago became an icon and is tattooed upon our minds? The answer lies with what artists have done with icons for centuries: They have reinterpreted them.
+
+Mark Klett and Byron Wolfe incorporated pieces of earlier photographs into their own collaboration on exhibit here, stitching a time sequence into a single image. They photographed the view from Glacier Point overlook at exactly the spot where Carleton Watkins had stood, then replaced portions of their color photograph with a fragment of Adams’s and a fragment of Watkins’s photographs of the same view.
+
+Catherine Opie takes highly colored, out-of-focus pictures of Adams’s territory in the national parks. In a video at the exhibition she said that she wants people to know what they are looking at but to question it, an act of witnessing that one click on an iPhone, one glance at social media, does not create.
+
+Abelardo Morell converted a dark, sealed tent into a camera obscura. An image of what an attached periscope saw was projected through its angled mirror onto the tent’s ground. He then photographed that underfoot image and printed it just as it was, showcasing America the beautiful through smatters and tatters of grass and dirt, as if the soles of our shoes had risen up to insist they were as essential to viewing as the view itself.
+
+Binh Danh took daguerreotypes of Yosemite, a reversal of time and history. Daguerreotypes, made without a negative, are unique. They were introduced in 1839, never widely used for landscapes, and largely replaced by a negative process by the time Watkins photographed Yosemite in 1861. Their surface is reflective, so Binh Danh’s viewers see themselves looking at images of iconic places that they themselves are in.
+
+Other contemporaries report on the many lasting changes human hands have made on the landscape. Mark Ruwedel photographs the tunnels and cuts that railroads long ago carved through the West at terrible cost and later abandoned — useless paths to nowhere slicing across the land.
+Mitch Epstein’s “Altamont Pass Wind Farm” suggests that human interference has reached an implausible level. The wind farm sits in a barren desert, but where the windmills end a glistening green golf course begins, equipped with a concrete lane for golf carts. Where did, where does, the water come from? And the dirt? It may be ironic to plunk an entire course down beside a sand trap, but the 19th-century idea that God meant us to tame and reconfigure the land for our use did not have this in mind.
+
+David Emitt Adams also photographs a deranged landscape, printing tintypes (another 19th-century process) of landscape details onto sculptures he made of old, beat-up, discarded metal cans he collected in the desert, where they pepper the ground. A new role for the desert: prime dump.
+
+Though Adams remains extravagantly popular and landscape photographers across America and the world continue to provide us with luscious images, probably the largest number of landscape photographs people see, on television, the web, on mobile and in newspapers, are images of environmental destruction that is at least partially due to climate change: flooded beaches, rivers, towns, and islands, shrinking glaciers, forest fires feeding on drought, hurricane damage of cities and fields. All scientific predictions say this will grow worse unless strong action is taken soon.
+
+Beautiful landscapes are good for the eye, the mind, the spirit.
+
+One day images of them may be all that we have left.
+",,,
+39,Anubhav,https://www.theguardian.com/world/2019/jan/17/ghanian-undercover-journalist-shot-dead-in-accra,Journalist who exposed football corruption shot dead in Ghana,"An undercover Ghanaian journalist who helped expose corruption in African football has been shot dead in Accra.
+
+Ahmed Husein was part of a team led by award-winning journalist Anas Aremeyaw Anas, whose investigation led to the resignation of the head of the Ghana Football Association.
+
+Dozens of football referees and officials in several countries were also banned as a result of the investigation, including the Nigerian national team coach, Salisu Yusuf, for receiving cash from undercover journalists posing as agents.
+
+The director of the criminal investigations department, Maame Yaa Tiwaa Addo-Danquah, said: “Our men are on the ground currently gathering information. Everyone connected to this murder will be invited for questioning.”
+
+Husein was shot in the neck and chest by unknown gunmen on his way home on Wednesday night in the capital Accra, police said. Anas tweeted: “Sad news, but we shall not be silenced. Rest in peace, Ahmed.”
+
+Husein had previously made a complaint to police after a Ghanaian politician, Kennedy Agyapong, showed his photograph on a private television channel.
+
+Agyapong promised payment for supporters who took retribution against Husein. “That boy that’s very dangerous, he lives here in Madina. If he comes here, beat him,” he said, pointing to Husein’s image.
+
+Agyabeng added: “He invited the world to beat him up and said he will pay for it and now he has been killed,” he said. “How can you put pictures of someone out there and splash it on national TV and ask people to go after his life for a reward?”
+
+The Committee to Protect Journalists called for an immediate investigation and for Ghanaian authorities to “ensure that threats against the press are taken seriously”.
+
+Ghana ranked 23rd out of 180 countries in the Reporters Sans Frontières (RSF) 2018 World Press Freedom Index – an improvement of three places on the previous year. RSF has previously condemned threats against Anas after he revealed “threatening calls, intimidatory messages and suspicious vehicles near his home”.
+
+The reporter, whose other exposés have lifted the lid on graft in the judicial system, is distinctive for wearing hats and face coverings to conceal his identity.
+
+Ghana’s national media regulator condemned the killing. “It will be in the national interest to arrest the perpetrators of this crime,” its chairman, Yaw Boadu-Ayeboafo, said in a statement.
+
+Ghanaian journalists condemned the killing of the 34-year-old reporter, who played a key role in last year’s investigation.
+
+Last October, Fifa banned the former Ghana FA boss, Kwesi Nyantakyi, for life and fined him nearly $500,000 (£387,000) after he was seen on camera allegedly accepting bribes.
+
+Nyantakyi was accused of requesting $11m to secure government contracts. Eight referees and assistant referees were also banned for life and 53 officials were subject to 10-year bans. Fourteen officials were exonerated.
+
+The revelations rocked Ghana, a country where football is the national sport and which prides itself on being a stable democracy in an often turbulent region.",,,
+40,Anubhav,https://www.theguardian.com/world/2019/jan/16/marzieh-hashemi-iran-state-television-detained-us,Iranian state television anchor arrested after flying into the US,"A prominent American anchor on Iranian state television’s English-language service has been arrested in the US on undisclosed charges, according to her employers at the state-backed TV channel Press TV.
+
+Marzieh Hashemi, born Melanie Franklin of New Orleans, appears on the English-language news channel backed by the Iranian government which regularly promotes the worldview of the Middle Eastern state to an international audience.
+
+Iran’s foreign minister, Javad Zarif, criticised the arrest, which comes at a time of heightened tensions with the US – and as Iran faces increasing criticism over its own arrests of dual nationals.
+
+“The arrest of Marzieh Hashemi by America is an unacceptable political act that tramples on freedom of speech,” Zarif told state run Al-Alam TV.
+
+“The Americans must immediately end this political game,” he said.
+
+Press TV said Hashemi was arrested at St Louis airport on Sunday and transferred by FBI agents to a detention centre in Washington DC, where she was held for two days before managing to contact her family.
+
+Press TV claimed that she has yet to be charged or informed of the reason for her detention, saying that Hashemi was made to remove her hijab and expose her forearms for a photograph. The channel also claimed she has been denied halal food and was instead offered pork products to eat, leaving her malnourished.
+
+The FBI declined to comment and it is not possible to independently verify the claims made by Press TV.
+
+“Her relatives were unable to contact her, and she was allowed to contact her daughter only two days after her arrest,” the channel said in a statement.
+
+“Press TV would like to hereby express its strong protest at the recent apprehension and violent treatment of Ms Marzieh Hashemi, born Melanie Franklin in the United States, who is currently serving as an anchor for the English-language television news network.”
+
+Hashemi converted to Islam and moved to Iran after being inspired by the Iranian revolution. She was reportedly visiting family members back in the US when the arrest was made.
+
+Press TV broke into its planned broadcasting to cover the arrest and has published more than a dozen statements of support on its website, including from Lauren Booth – the sister-in-law of Tony Blair – who describes Hashemi as a “personal friend”.
+
+The channel, whose presenters have included George Galloway and Jeremy Corbyn, lost its licence to broadcast on television in the UK in 2012 after being found guilty of breaches of the Ofcom code. The channel had previously been fined £100,000 for broadcasting an interview conducted under duress with an imprisoned journalist.
+
+Corbyn earned £20,000 ($25,698) for various appearances on Press TV over several years, including a brief stint hosting a phone-in on the channel.
+
+However, the channel continues to be active on social media, earning attention when it covered an attempt to deselect the Labour MP Joan Ryan, who is chair of Labour Friends of Israel.
+
+Last week, Iran confirmed it is holding US navy veteran Michael R White at a prison in the country, making him the first American known to be detained under Donald Trump’s administration.
+
+Nazanin Zaghari-Ratcliffe, a British-Iranian woman, has been held in Tehran since April 2016. She recently started a hunger strike in protest against being denied access to medical care.
+
+An Iranian foreign ministry spokesman, Bahram Ghasemi, told state TV that Hashemi’s arrest indicates the “apartheid and racist policy” of the Trump administration.
+
+“We hope that the innocent person will be released without any condition,” Ghasemi said.",,,
+41,Aaditya,https://www.theguardian.com/commentisfree/belief/2012/sep/13/buzz-aldrin-communion-moon,How Buzz Aldrin's communion on the moon was hushed up,"As Neil Armstrong's memorial takes place, it's good to remember why Nasa kept Aldrin's surreal lunar ceremony under wraps
+Before Armstrong and Aldrin stepped out of the lunar module on July 20, 1969, Aldrin unstowed a small plastic container of wine and some bread. He had brought them to the moon from Webster Presbyterian church near Houston, where he was an elder. Aldrin had received permission from the Presbyterian church's general assembly to administer it to himself. In his book Magnificent Desolation he shares the message he then radioed to Nasa: ""I would like to request a few moments of silence … and to invite each person listening in, wherever and whomever they may be, to pause for a moment and contemplate the events of the past few hours, and to give thanks in his or her own way.""
+
+He then ate and drank the elements. The surreal ceremony is described in an article by Aldrin in a 1970 copy of Guideposts magazine: ""I poured the wine into the chalice our church had given me. In the one-sixth gravity of the moon the wine curled slowly and gracefully up the side of the cup. It was interesting to think that the very first liquid ever poured on the moon, and the first food eaten there, were communion elements.""
+He also read a section of the gospel of John. During it all, Armstrong, reportedly a deist, is said to have watched respectfully but without making any comment.
+The story of the secret communion service only emerged after the mission. Aldrin had originally planned to share the event with the world over the radio. However, at the time Nasa was still reeling from a lawsuit filed by the firebrand atheist Madalyn Murray O'Hair, resulting in the ceremony never being broadcast. The founder of American Atheists and self-titled ""most hated woman in America"" had taken on Nasa, as well as many other public organisation. Most famously, she successfully fought mandatory school prayer and bible recitation in US public schools.
+
+After the Apollo 8 crew had read out the Genesis creation account in orbit, O'Hair wanted a ban on Nasa astronauts practising religion on earth, in space or ""around and about the moon"" while on duty. She believed it violated the constitutional separation between church and state. In Magnificent Desolation, Aldrin explains how astronaut Deke Slayton, who ran the Apollo 11 flight crew operations, told him to tone down his lunar communiqué. ""Go ahead and have communion, but keep your comments more general,"" he advised. Looking back Aldrin writes that the communion was his way of thanking God for the success of the mission. Yet, later he hinted that he could have been more inclusive.",,,
+42,Mukul,https://www.telegraph.co.uk/news/worldnews/europe/germany/8029948/First-World-War-officially-ends.html,First World War officially ends ," The final payment of £59.5 million, writes off the crippling debt that was the price for one world war and laid the foundations for another.
+
+Germany was forced to pay the reparations at the Treaty of Versailles in 1919 as compensation to the war-ravaged nations of Belgium and France and to pay the Allies some of the costs of waging what was then the bloodiest conflict in history, leaving nearly ten million soldiers dead.
+
+The initial sum agreed upon for war damages in 1919 was 226 billion Reichsmarks, a sum later reduced to 132 billion, £22 billion at the time.
+
+The bill would have been settled much earlier had Adolf Hitler not reneged on reparations during his reign.
+
+Hatred of the settlement agreed at Versailles, which crippled Germany as it tried to shape itself into a democracy following armistice, was of significant importance in propelling the Nazis to power.
+""On Sunday the last bill is due and the First World War finally, financially at least, terminates for Germany,"" said Bild, the country's biggest selling newspaper.
+
+Most of the money goes to private individuals, pension funds and corporations holding debenture bonds as agreed under the Treaty of Versailles, where Germany was made to sign the 'war guilt' clause, accepting blame for the war.
+
+France, which had been ravaged by the war, pushed hardest for the steepest possible fiscal punishment for Germany.
+
+The principal representative of the British Treasury at the Paris Peace Conference, John Maynard Keynes, resigned in June 1919 in protest at the scale of the demands.
+
+""Germany will not be able to formulate correct policy if it cannot finance itself,' he warned.
+
+When the Wall Street Crash came in 1929, the Weimar Republic spiralled into debt. Four years later, Hitler was elected Chancellor of Germany. ",,,
+43,Mukul,https://www.washingtonpost.com/nation/2019/01/17/muhammad-ali-was-deathly-afraid-flying-louisville-just-named-its-airport-after-him/?utm_term=.6fbb46696247,Muhammad Ali was deathly afraid of flying. Louisville just named its airport after him.,"On an hour-long flight from Louisville to Chicago in the late ’50s, Cassius Clay prayed he wasn’t going to die.
+
+The teenage Clay, then a dominant amateur boxer, said he hadn’t developed his phobia of flying, one also held by his father, until that fateful flight on a twin-engine jet. “Many times I’ve searched my mind to find where the fear originated,” he said in his 1975 autobiography. Clay recalled how the plane on the flight to Chicago experienced so much turbulence during a storm that “some of the seats were torn from their bolts on the floor.”
+
+“I really thought it was our last ride,” remembered Joe Martin, Clay’s coach, according to Jonathan Eig’s “Ali: A Life.” “And I mean Cassius was praying and hollering! Oh, man, he was scared to death.”
+
+That fear stayed with Clay, later known as Muhammad Ali, for most of his transcendent career. So what would Ali, who died in 2016 at 74, say to Wednesday’s news that Louisville is naming its airport after a man who famously hated air travel? “I’m not afraid of the fight,” he told reporters before a 1961 bout. “I’m afraid of the flight.”
+
+As the Louisville Courier-Journal reported, Mayor Greg Fischer said in a news conference that Louisville Muhammad Ali International Airport would serve as a reminder that while the boxer belonged to the world, the Kentucky city was his home.
+
+“Muhammad became one of the most well-known people to ever walk the earth and has left a legacy of humanitarianism and athleticism that has inspired billions of people,” Fischer said. “It is important that we, as a city, further champion the champ’s legacy. And the airport renaming is a wonderful next step.""
+
+For years as a young fighter, Ali was able to avoid jets and take trains and Martin’s station wagon to his fights, according to David Remnick’s “King of the World.” But that would all change in 1960.
+
+In May of that year, Clay had to get to San Francisco to qualify for the U.S. Olympic boxing team. If the 18-year-old ever wanted to accomplish his goal of being one of the youngest heavyweight champions in the history of boxing, he had to immediately overcome an opponent not named Floyd Patterson or Sonny Liston — one that the man who called himself “the greatest” couldn’t outbox or trash-talk.
+
+“You’re going to have to fly, son, if you want to be a fighter, fly to places all over the world,” said his trainer, Dick Sadler, according to Ali’s autobiography, “The Greatest: My Own Story.” “It’s a strange fear. But to you it’s real. You’ve got to either overcome it or give up boxing.”
+
+Local media called Clay’s decision to fly to San Francisco “a big one,” adding that if he didn’t take to the air for that fight, then “he might have to ride a lot of buses before he gets anywhere in professional boxing.”
+
+Eig wrote that even though Martin persuaded Clay to fly, the flight hit turbulence over Indiana, causing the charismatic fighter to bend over and again pray for his life. “He went to an army supply store and bought a parachute and actually wore it on the plane,” said Martin’s son, Joe Martin Jr.
+
+While Clay’s supernatural confidence in the ring showed during the Olympic qualifiers in San Francisco, it was nowhere to be found when it came to flying back to Louisville. Instead of flying home with Martin, Clay pawned a gold watch, one of his prizes, to get train fare.
+
+But Clay and his team had an even larger problem than San Francisco: The 1960 Olympics were in Rome.
+
+“When the team was ready to go to Rome, I told Martin I wouldn’t fly,” Ali said in his autobiography. “I’d be willing to take a boat, but the thought of flying over the ocean sent chills up and down my spine.”
+
+Seeing that his fighter was serious, Martin, a police officer who had first offered to teach Clay how to box when he was a boy after he reported his bike had been stolen, took him to Central Park in Louisville for hours in hopes of talking him out of throwing away his chance at gold.
+
+""I calmed him down and convinced him if he wanted to be heavyweight champion of the world, then he had to go to Rome and win the Olympics,” Martin told HBO, according to the Guardian.
+
+He did just that, winning the gold medal as a light heavyweight. Clay pointed to another reason for his sudden courage.
+
+“What I was afraid of most was the plane crashing, and nothing would satisfy me until I called the Air Force and asked them to give me a record of plane flights between Rome and America,” he said in his autobiography. “They said they couldn’t even remember the last time one had crashed. That calmed me down enough to take the flight to Rome.”
+
+The fighter’s aviophobia would come up again. At 21, about a year before he became heavyweight champion for the first time, Clay was scheduled to fly back to Louisville from New York after defeating Doug Jones in March 1963. Ali suddenly grew concerned about his afternoon flight at Newark International Airport, according to Eig.
+
+“When was the last crash?” Clay asked loudly, waiting to board the plane. “When was the last crash?” He had to be hushed by one of this traveling partners, worried that they would get tossed off the flight.
+
+Ali’s colorful personality allowed for him to openly joke about his fear of flying in a 1970 interview with historian Jim Jacobs archived by the Boxing Hall of Fame. The interview was conducted in the lead-up to his fight with Jerry Quarry, Ali’s return to the ring after he was barred for more than three years for refusing to serve in the military during the Vietnam War. To Ali, a turbulent plane scared him much more than Quarry or Joe Frazier, the rival he would fight for the first time months later.
+
+“The only thing [that] scares me is when I’m on a jet and the lady says, ‘Ladies and gentlemen, we’ve just been informed by the pilot that we are coming into a thunderstorm. We tried to get around it, but we can’t. It might get a little choppy, so please fasten your safety belts, and we will resume serving dinner in five minutes,'” Ali said, shaking his right hand as if it were a rocky airplane. “And when they get scared and tell you to fasten safety belts — and then I’ll see the stewardesses' eyes big and I see the lightning and the dark cloud. And all of a sudden — Bam! Plane started shaking, the wings flopping, and I think about the plane splitting and the long fall, and I say, ‘Why did I have to rush? I could have took a bus. Oh Lord, if you just let me off of here, I’ll take a train the next time.'
+
+“Boom! The plane’s shaking and falling,” he continued. “And I say, ‘If I get off this plane, I’ll whoop any man in the world.' ”
+
+By the ’80s, Ali had finally conquered his fear of flying, writing that the activity had become “automatic.” He’d later talk about how much he enjoyed sitting in the cockpit with the pilots, saying how he wanted to buy his own plane and helicopter. Ali got so comfortable that his safety had almost become secondary.
+
+“Once, when a flight attendant instructed him to buckle up, Ali replied, ‘Superman don’t need no seat belt,’” Eig wrote. “To which the flight attendant answered, ‘Superman don’t need no plane!’ ”
+",,,
+44,Aaditya,https://www.livemint.com/Technology/7npPbkfZ7FO55XktYAEHjI/Instagram-is-removing-fake-followers-likes-comments-from-a.html,"Instagram is removing fake followers, likes, comments from accounts","San Francisco: Instagram on Monday said it is booting fake followers, likes and comments generated by applications tailored to make accounts appear more popular than they actually are.
+
+The crackdown comes as Instagram parent Facebook strives to assure people that the leading social network and its services can be trusted.
+
+“Recently, we’ve seen accounts use third-party apps to artificially grow their audience,” Instagram said in a blog post.
+
+“Starting today, we will begin removing inauthentic likes, follows and comments from accounts that use third-party apps to boost their popularity.”
+
+Instagram is using self-improving software programs to help identify accounts that use such apps and purge products of inauthentic activity, which violates terms of service at the service.
+
+Instagram said it would notify users about removed likes, follows, or comments.
+
+People who unknowingly linked to an offending app need only change passwords to sever connections, according to the photo and video sharing social network.
+
+Instagram users who continue to use such third-party apps possibly seeing their “experience impacted,” but the service did not specify in what ways.
+
+The announcement comes amid growing concerns about Facebook’s efforts to curb misinformation and manipulation.
+
+Facebook has faced renewed criticism following a New York Times investigation suggesting it ignored warnings about Russian influence campaigns on its platform and then used a consulting firm to discredit critics of the social network.",,,
+45,Aaditya,https://www.snopes.com/fact-check/stamping-out-breast-cancer/,"Please read and pass on. It would be wonderful if 1999 were the year a cure for breast cancer was found!!!!
+This is one note I’ll gladly pass on. The notion that we could raise $16 million by buying a book of stamps is powerful!
+
+As you may be aware, October is Breast Cancer Awareness Month. The U.S. Postal Service recently released its “Fund the Cure” stamp to help fund breast cancer research. The stamp was designed by Ethel Kessler of Bethesda, Maryland.
+
+It is important that we take a stand against this disease that kills and maims so many of our mothers, sisters, friends. Instead of the normal $.33 for a stamp, this one costs $.40. The additional $.07 will go to breast cancer research. A “normal” book costs $6.60. This one is only $8.00. It takes a few minutes in line at the Post Office and means so much. If all stamps are sold, it will raise an additional $16,000,000 for this vital research! Just as important as the money is our support. What a statement it would make if the stamp outsold the lottery this week. What a statement it would make that we care.
+
+I urge each of you to do two things TODAY:
+
+1. Go out and purchase some of these stamps.
+2. E-mail your friends to do the same.
+
+Many of us know women and their families whose lives are turned upside-down by breast cancer. It takes so little to do so much in this drive. Please help!",,,,
+46,Anubhav,https://www.theguardian.com/world/2019/jan/17/car-bomb-explodes-at-police-academy-in-bogota,Car bomb kills eight at police academy in Bogotá,"A car bomb has been detonated at a police academy in Bogotá, killing at least eight people and injuring 10 according to Colombian authorities.
+
+The scene outside the General Santander police academy was chaotic, with ambulances and helicopters rushing to the normally tightly controlled facility.
+
+Witnesses said they heard a loud explosion that destroyed windows in adjacent buildings. Pictures on social media showed a charred vehicle surrounded by debris on the academy’s campus.
+
+President Iván Duque, who was visiting a western state, was rushing back to the capital to oversee police operations.
+
+For decades, residents of Bogotá lived in fear of being caught in a bombing by leftist rebels or Pablo Escobar’s Medellín drug cartel. But as Colombia’s conflict has wound down, and the nation’s largest rebel group disarmed under a 2016 peace deal, security has improved and attacks have become less frequent.
+
+Authorities have yet to suggest who was behind the attack, but attention has focused on leftist rebels from the National Liberation Army, which has been stepping up attacks on police targets in Colombia amid a standoff with the conservative Duque over how to re-start stalled peace talks.",,,
+47,Mukul,https://www.washingtonpost.com/nation/2019/01/17/they-called-him-mr-big-when-he-was-killed-by-hitman-named-iceman-gang-war-erupted/?utm_term=.570f3771a90a,"They called him ‘Mr Big.’ When he was killed by a hit man named ‘The Iceman,’ a gang war erupted.
+","Around town, they call him “Mr. Big,” but the nickname does not square with the man stepping out of his silver BMW around 7:30 p.m. on July 26, 2015.
+
+Paul Massey is slight and unassuming, reportedly just 5-foot-8, his balding hair shaved tight, his face lined like a deflated football. As always, he’s simply dressed. A proud son of these working-class streets in Salford, a city west of Manchester, England, he likes to boast he’s never worn a suit in his life. His nickname is tied to a kind of stature not measured by inches or appearance.
+
+He is clutching a bag from his local Bargain Booze, the Manchester Evening News would later report. Inside are his usual Sunday evening drinks — Bacardi rum and Coca-Cola. But before the 55-year-old enters his home, gunfire snaps and Massey goes down.
+
+The shooter is wearing military-style fatigues. He steps over the smashed glass and spilled rum to where Massey has crumpled, unleashing another blast from the Uzi before melting away into the neighborhood.
+
+Bleeding from 18 bullet holes, the fingers of his right hand blown off, Massey manages to make a phone call for help. But he dies at the scene. As word quickly races through Salford, friends and associates pour in behind the blue police tape, a flash vigil for the city’s “Mr. Big.”
+
+Massey’s nickname stemmed from his influence in Salford’s criminal underworld, a scene of hoodlums and scammers with cartoonish monikers — such as “The Psycho” and “Cazza” — belying violent streaks. For decades, Massey was the elder statesman among Manchester’s crooks, a self-styled, street-tough Robin Hood who once leveraged his reputation in an unsuccessful bid for Salford’s mayor’s office.
+
+“I could be shot dead anytime”, Massey once reflected to a film crew. “That’s the end of it. I am prepared to face that — I know the stakes . . . [but] I pity the b-----d who did it after.”
+
+According to prosecutors, Massey’s assassination was the first domino to fall in a gangland war between former members of an organized local crime outfit known as the A Team. The beef would continue to leave blood on the streets in the years after Massey’s death.
+
+This week, 38-year-old Mark Fellows was convicted of murdering both Massey and one of his top associates as part of the bloody feud, the Guardian reported. The verdict Wednesday closes the curtain on a criminal saga with Shakespearean echoes of honor and betrayal that also seems ripped from the tawdriest pulp fiction. Among Salford’s underworld, Fellows was known as “The Iceman.”
+
+Salford’s “Mr. Big” grew up in a tough part of town, according to a 2015 report by the BBC. At 12, he first crossed law enforcement when he was arrested for damaging an empty house. The charge landed him in a reform school. According to the BBC, Massey later spoke of “bitterness against the system” for being “dragged away from his mother and father.”
+
+“He had a strong anti-authority streak,” Peter Walsh, the author of “Gang War: The Inside Story of the Manchester Gangs,” told the BBC. “He wasn’t the biggest, he wasn’t the toughest, but he was quite charismatic and very principled in his own way.”
+
+In the ’80s, when Manchester became internationally renowned as the ground zero for rave parties, Massey and his friends spotted an opening. The crew allegedly took over working the doors at the city’s popular clubs. Then, “they started smuggling ecstasy in from Holland and selling that” to ravers, Walsh claimed.
+
+The “Mr. Big” nickname was coined by a city official at a 1992 public meeting decrying the lack of exposure of the criminals running wild in the streets. “Massey, ‘Mr. Big,’ why don’t the press print his name?” the official said, the Evening News has reported.
+
+The name stuck. Massey would allegedly later be involved in numerous criminal schemes, ranging from burglary rings to protection rackets, according to the Evening News. But he also cultivated the image of a man fighting for his community. Massey allegedly outlawed heroin sales in Salford while he was in control.
+
+In 1999, Massey was convicted of stabbing a man in the groin outside a nightclub. He was sentenced to 14 years in prison. Upon his early release in 2007, Massey’s reputation remained large on the streets. In 2012, he ran for mayor of Salford. “I don’t want to be known as Mr. Big. I don’t want a reputation,” he told the Telegraph at the time. “I just want to be me — people have got me wrong.”
+
+He came in seventh out of 10 candidates in the election.
+
+By the 2010s, Massey was a father of five and a grandfather of eight. He claimed he was a legitimate business owner, running a number of security operations. According to the Evening News, his direct influence over criminal operations in Salford had allegedly waned. But he still commanded respect among the younger generation of Manchester-area crews, and was known to broker peace agreements between squabbling factions before arguments turned violent.
+
+But the implosion of the area’s most powerful gang, the A Team, would allegedly lead to Massey’s murder.
+
+In 2014, the A Team snapped into two factions, the Evening News reported. Police allege the divide was the result of a rowdy evening at a nightclub resulting in a woman throwing a drink in a A Team member’s face. The paper also cites “gangland sources” who source the split from when a gang member learned the Breitling watch he had bought from another member was fake.
+
+Whatever the reason for the acrimony, a year before Massey’s death, the gang members were at odds. The original faction of A Team members were led by a close confidant of Massey’s, police testified at the recent trial. The break-off element was known as the Anti-A Team or the AA Team.
+
+Massey was allegedly stuck between the two.
+
+If “Mr. Big” Massey occupied the top floor of Salford’s crime world, “The Iceman” Fellows was stuck in the basement — a gangland “nobody,” according to the Evening News.
+
+An illness growing up had left him with a colostomy bag for life, and he was fussy about both cleanliness and his health. A long-distance runner, he participated in grueling events like the Great Manchester Run, a Garmin Forerunner GPS watch strapped to his wrist tracking his distance and health stats.
+
+According to prosecutors, Fellows aligned himself with the Anti-A Team crew following the dispute. He was allegedly paid 10,000 pounds (almost $13,000) to take out Massey. He reportedly spied on the underworld figure with a night-vision scope. He struck on July 26, 2015.
+
+Massey’s death stunned Salford. His coffin was pulled through the streets in a horse-drawn hearse. A pipe band played in the procession. Flower arrangements shaped like cannabis leaves and big cigarettes were laid out. Gangland figures from across the United Kingdom sent tributes.
+
+The death also sparked violent retributions between the A Team and Anti-A Team. Bullets tore into house fronts. Machetes were swung. Smoke grenades were rolled into wedding ceremonies.
+
+“I’ve never known crime at these levels, the number of incidents in a short space of time,” City Councillor Paul Wilson told the Guardian in 2015. “These are targeted attacks but my fear is that an innocent person will get caught up in it.”
+
+Police struggled to identify Massey’s killer. According to the Evening News, at one point investigators complied a list of 112 gangland suspects. Fellows was also suspected, but no evidence tied him to the hit.
+
+The case ground on for three more years. Then, on May 5, 2018, a second murder struck Massey’s inner circle.
+
+That morning, John Kinsella, a 53-year-old judo and jujitsu expert who was a allegedly a close gangland associate of Massey’s and had served as a pallbearer at his funeral, took a walk with his pregnant girlfriend across a footpath in a village called Rainhill. The couple brought along their six American bulldogs.
+
+As Kinsella struggled to pull along a dog that was straying behind, Fellows huffed up on a mountain bike, prosecutors allege. He shot Kinsella twice in the back with a Webley revolver, then two more times from close range before pedaling away.
+
+According to the Evening News, police immediately turned on Fellows as a possible suspect in both killings based on the similar execution of both crimes.
+
+During a raid on his apartment, police discovered Fellows’s Garmin Forerunner GPS watch. The data from the watch placed Fellows at the scene of Massey’s murder. A picture of the suspect wearing the watch at the Great Manchester Run put the item in his possession at the time of the killing.
+
+Both Fellows and an associate and A Team member named Steven Boyle, 36, were charged with both Massey’s and Kinsella’s murder, as well as the attempted murder of Kinsella’s girlfriend. Prosecutor’s alleged Boyle acted as a spotter for Fellows during the hits, the BBC reported.
+
+On Wednesday, following a six-week trial at Liverpool Crown Court, Fellows was found guilty of both murders. Boyle was convicted of Kinsella’s murder but acquitted in Massey’s death. Both were found not guilty of attempted murder of Kinsella’s girlfriend. The men are scheduled to be sentenced on Thursday. They face mandatory life sentences.
+
+After the verdicts, Louise Lydiate, Massey’s longtime partner and mother of two of his children, briefly addressed reporters.
+
+“Anyone who knows Paul would tell you he was a very generous, kind man who would do anything for anybody,” she said of the late “Mr. Big.” “All these Mr. Big . . . things like that come from people who obviously don’t know him.” ",,,
+48,Aaditya,https://www.nytimes.com/2009/10/18/us/18body.html,Body Is Mistaken for a Halloween Display,"LOS ANGELES — The body of a man slumped over patio furniture on his balcony in Marina del Rey was mistaken for Halloween décor last week and remained undisturbed for five days.
+
+Sheriff’s deputies were called to the complex Thursday evening and found the man, Mostafa Mahmoud Zayed, 75, dead. He had been shot through the eye.
+
+“He looked fake,” said Austin Raishbrook, 33, who lives nearby. “It looked like somebody had thrown a dummy over the back of a chair.”
+
+Sheriff’s deputies believe that Mr. Zayed committed suicide, said Steve Whitmore, a spokesman for the Los Angeles County Sheriff’s Department. “Our investigators don’t think there was any foul play here,” he said.
+
+Mr. Raishbrook said he had just returned home from work at the news-gathering agency he owns when sirens began to wail along Bora Bora Way, a residential street overlooking boat slips and a main waterway.
+
+“I ran over there with my camera equipment,” he said. “There was blood on the balcony, and he was visible from the street. But it really did not look like a real person up there.”
+
+The coroner’s autopsy report, released Saturday, showed that Mr. Zayed probably died last Sunday. Mr. Whitmore said neighbors “reported hearing popping noises on Sunday.”
+
+Most people in the complex of 800 units may not have noticed Mr. Zayed, Mr. Whitmore said. Hard rain and cold winds kept many indoors for most of the week. The buildings in the complex are turned so that the third floor — where Mr. Zayed’s body was slouched toward a railing — is partly obscured from the street.
+
+“I finally took a walk last night with my dog, and I saw the ambulance there,” said Victoria Sepe, 61, who lives nearby but did not see the body. “It’s terrible.”
+
+The apartment complex sits on a narrow strip of land leading to the sea, said residents reached on the phone Friday. It is a quiet street, they said, with upscale apartment buildings.
+
+The most pressing security matters are usually “seals jumping on the docks and making too much noise,” Ms. Sepe said.
+
+“This is a little creepy,” she added.",,,
+49,Mukul,https://www.washingtonpost.com/nation/2019/01/17/muhammad-ali-was-deathly-afraid-flying-louisville-just-named-its-airport-after-him/?utm_term=.6fbb46696247,Muhammad Ali was deathly afraid of flying. Louisville just named its airport after him.,"Muhammad Ali was deathly afraid of flying. Louisville just named its airport after him.
+On an hour-long flight from Louisville to Chicago in the late ’50s, Cassius Clay prayed he wasn’t going to die.
+
+The teenage Clay, then a dominant amateur boxer, said he hadn’t developed his phobia of flying, one also held by his father, until that fateful flight on a twin-engine jet. “Many times I’ve searched my mind to find where the fear originated,” he said in his 1975 autobiography. Clay recalled how the plane on the flight to Chicago experienced so much turbulence during a storm that “some of the seats were torn from their bolts on the floor.”
+
+“I really thought it was our last ride,” remembered Joe Martin, Clay’s coach, according to Jonathan Eig’s “Ali: A Life.” “And I mean Cassius was praying and hollering! Oh, man, he was scared to death.”
+
+That fear stayed with Clay, later known as Muhammad Ali, for most of his transcendent career. So what would Ali, who died in 2016 at 74, say to Wednesday’s news that Louisville is naming its airport after a man who famously hated air travel? “I’m not afraid of the fight,” he told reporters before a 1961 bout. “I’m afraid of the flight.”
+
+As the Louisville Courier-Journal reported, Mayor Greg Fischer said in a news conference that Louisville Muhammad Ali International Airport would serve as a reminder that while the boxer belonged to the world, the Kentucky city was his home.
+
+“Muhammad became one of the most well-known people to ever walk the earth and has left a legacy of humanitarianism and athleticism that has inspired billions of people,” Fischer said. “It is important that we, as a city, further champion the champ’s legacy. And the airport renaming is a wonderful next step.""
+
+For years as a young fighter, Ali was able to avoid jets and take trains and Martin’s station wagon to his fights, according to David Remnick’s “King of the World.” But that would all change in 1960.
+
+In May of that year, Clay had to get to San Francisco to qualify for the U.S. Olympic boxing team. If the 18-year-old ever wanted to accomplish his goal of being one of the youngest heavyweight champions in the history of boxing, he had to immediately overcome an opponent not named Floyd Patterson or Sonny Liston — one that the man who called himself “the greatest” couldn’t outbox or trash-talk.
+
+“You’re going to have to fly, son, if you want to be a fighter, fly to places all over the world,” said his trainer, Dick Sadler, according to Ali’s autobiography, “The Greatest: My Own Story.” “It’s a strange fear. But to you it’s real. You’ve got to either overcome it or give up boxing.”
+
+Local media called Clay’s decision to fly to San Francisco “a big one,” adding that if he didn’t take to the air for that fight, then “he might have to ride a lot of buses before he gets anywhere in professional boxing.”
+
+Eig wrote that even though Martin persuaded Clay to fly, the flight hit turbulence over Indiana, causing the charismatic fighter to bend over and again pray for his life. “He went to an army supply store and bought a parachute and actually wore it on the plane,” said Martin’s son, Joe Martin Jr.
+
+While Clay’s supernatural confidence in the ring showed during the Olympic qualifiers in San Francisco, it was nowhere to be found when it came to flying back to Louisville. Instead of flying home with Martin, Clay pawned a gold watch, one of his prizes, to get train fare.
+
+But Clay and his team had an even larger problem than San Francisco: The 1960 Olympics were in Rome.
+
+“When the team was ready to go to Rome, I told Martin I wouldn’t fly,” Ali said in his autobiography. “I’d be willing to take a boat, but the thought of flying over the ocean sent chills up and down my spine.”
+
+Seeing that his fighter was serious, Martin, a police officer who had first offered to teach Clay how to box when he was a boy after he reported his bike had been stolen, took him to Central Park in Louisville for hours in hopes of talking him out of throwing away his chance at gold.
+
+""I calmed him down and convinced him if he wanted to be heavyweight champion of the world, then he had to go to Rome and win the Olympics,” Martin told HBO, according to the Guardian.
+
+He did just that, winning the gold medal as a light heavyweight. Clay pointed to another reason for his sudden courage.
+
+“What I was afraid of most was the plane crashing, and nothing would satisfy me until I called the Air Force and asked them to give me a record of plane flights between Rome and America,” he said in his autobiography. “They said they couldn’t even remember the last time one had crashed. That calmed me down enough to take the flight to Rome.”
+
+The fighter’s aviophobia would come up again. At 21, about a year before he became heavyweight champion for the first time, Clay was scheduled to fly back to Louisville from New York after defeating Doug Jones in March 1963. Ali suddenly grew concerned about his afternoon flight at Newark International Airport, according to Eig.
+
+“When was the last crash?” Clay asked loudly, waiting to board the plane. “When was the last crash?” He had to be hushed by one of this traveling partners, worried that they would get tossed off the flight.
+
+Ali’s colorful personality allowed for him to openly joke about his fear of flying in a 1970 interview with historian Jim Jacobs archived by the Boxing Hall of Fame. The interview was conducted in the lead-up to his fight with Jerry Quarry, Ali’s return to the ring after he was barred for more than three years for refusing to serve in the military during the Vietnam War. To Ali, a turbulent plane scared him much more than Quarry or Joe Frazier, the rival he would fight for the first time months later.
+
+“The only thing [that] scares me is when I’m on a jet and the lady says, ‘Ladies and gentlemen, we’ve just been informed by the pilot that we are coming into a thunderstorm. We tried to get around it, but we can’t. It might get a little choppy, so please fasten your safety belts, and we will resume serving dinner in five minutes,'” Ali said, shaking his right hand as if it were a rocky airplane. “And when they get scared and tell you to fasten safety belts — and then I’ll see the stewardesses' eyes big and I see the lightning and the dark cloud. And all of a sudden — Bam! Plane started shaking, the wings flopping, and I think about the plane splitting and the long fall, and I say, ‘Why did I have to rush? I could have took a bus. Oh Lord, if you just let me off of here, I’ll take a train the next time.'
+
+“Boom! The plane’s shaking and falling,” he continued. “And I say, ‘If I get off this plane, I’ll whoop any man in the world.' ”
+
+By the ’80s, Ali had finally conquered his fear of flying, writing that the activity had become “automatic.” He’d later talk about how much he enjoyed sitting in the cockpit with the pilots, saying how he wanted to buy his own plane and helicopter. Ali got so comfortable that his safety had almost become secondary.
+
+“Once, when a flight attendant instructed him to buckle up, Ali replied, ‘Superman don’t need no seat belt,’” Eig wrote. “To which the flight attendant answered, ‘Superman don’t need no plane!’ ”
+",,,
+50,Anubhav,https://www.theguardian.com/australia-news/2019/jan/17/australia-to-introduce-rules-about-sedating-or-restraining-nursing-home-residents,Australia to introduce rules about sedating or restraining nursing home residents,"On the eve of the royal commission into the aged care sector’s first hearing, the Morrison government has flagged new regulations on the use of chemical and physical restraints in nursing homes.
+
+There are no rules in Australia governing the use of restraints in aged care facilities, unlike the US, Britain and Europe.
+
+The aged care minister, Ken Wyatt, said he was disturbed by footage on the ABC’s 7.30 on Wednesday night, which showed a New South Wales dementia patient docile after being given sedatives without his family’s permission. He had also spent 14 hours strapped to a chair. There was footage of another elderly man physically restrained, bunny hopping across the room.
+
+“That is unacceptable in this day and age and I’m not prepared to allow that to occur and nor is our government,” Wyatt told reporters in Perth.
+
+“Today I’ve asked my department to prepare regulations that will protect senior Australians within residential care.”
+
+He asked his department to pick up the pace on the issue and insisted there had been joint work going on with the Attorney General’s Department.
+
+Asked about a time frame Wyatt said: “It’ll be within weeks at the most.”
+
+Wyatt insisted the media reporting was not what prompted him to act quickly.
+
+“If we neglect a child or we neglect an animal, there are penalties,” he said. “If we neglect a senior Australian, there is no measure other than state and territory legislation. One of the complexities of doing this is having to work with states and territories.”
+
+There are some concerns the controversial practice of doping aged care residents with medication is being used to make up for a shortfall in staff.
+
+The royal commission’s first hearing is scheduled for Adelaide on Friday and commissioners Richard Tracey and Lynelle Briggs will outline their vision for how the inquiry will operate.
+
+Their main task is to examine evidence of substandard aged care, abuse, systematic failures and draw up recommendations for improvement.
+
+The commission will hold hearings in February and March in Adelaide before travelling across Australian cities and regional hubs.
+
+The commission’s final report deadline is 30 April 2020.",,,

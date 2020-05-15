@@ -1,0 +1,67 @@
+Why OYO Sharing Check-In Details With The Govt Should Worry You
+
+By Gopal Sathe, Rachna Khaira
+BENGALURU, Karnataka—Imagine this scenario: You arrive at a hotel, show your ID and check in. By the time you reach your room, the local police would have not only learnt of your arrival, they would also have access to the data you share with the hotel.
+
+Worried? You should be. A large digital database that tracks people’s movements would be very easy to misuse, let along raise larger questions of living in a Big Brother state. But this is the crux of a new programme launched this week by OYO Rooms, which is first rolling it out in West Bengal, before expanding to other parts of the country.
+
+The move raises concerns about data misuse and privacy infringement, especially in a country where attacks on marginalised groups are all too common. 
+
+OYO Rooms, which claims to be India’s largest hotel network across 230 cities, with over 8,500 hotels, has grown in the past few years to become a familiar name in a country where more people are now travelling than ever for work or leisure.
+
+On Tuesday, at the Bengal Tourism Summit in Kolkata, the company announced its new digital arrival and departure register, which would provide the government real-time data about people checking in and out of its hotels.
+
+“The West Bengal Government has been extremely progressive and forward-thinking in its ideation and implementation of tourism-friendly schemes and initiatives,” Aditya Ghosh, CEO, India and South Asia, OYO Hotels and Homes, said at the summit. The digital register, said Ghosh, is part of this effort. “OYO will be happy to assist the WB Government to maintain a real time digital data repository,” he said.
+
+This is not happening just in West Bengal either.
+
+“At this point, we have seen acceptance from the state governments of Haryana, Rajasthan and Telangana of our proposed digitisation of guest entry and departure records,” Ghosh said.
+
+“The Digital arrival and departure register aims to provide a real-time update to the respective governments on who’s checking in and checking out, making this a more efficient and transparent process as compared to the manual version.”
+A source close to the company explained that all hotels, whether small unbranded hotels, or five-star ones, must collect customer data and provide it to authorities whenever asked. They claimed that since the government was directly handling the data, there is no concern about any misuse from OYO’s side. This person added that the data is shared with the same authorities that would have received the physical registers, and not a wider audience.
+How this can enable surveillance
+
+The news has raised concerns amongst researchers and groups working on privacy in India. The Internet Freedom Foundation, which works on areas such as net neutrality, privacy and innovation in India, wrote, “Everyday we lose more of our privacy. This means a live update the next time you check into a hotel room. Without a warrant or a legal request, instantaneous. Scalable, deeper, richer, and in real time.”
+
+In the absence of any reasonable privacy laws in India, broad-scale data sharing like this naturally raises concerns. Pranesh Prakash, a Fellow at the Center for Internet and Society in Bengaluru, agreed that the lack of transparency or regulations on how this data is used, or misused, is a problem. He added: “As it stands, the police don’t know what to do with all the hotel guest data they collect. Now they’re going to get even more.”
+
+    Invasions of privacy enabled by technology could put every other human right at risk, and on a scale that would be truly terrifying.
+
+Although the police has always had access to this data, it has not been at this scale. Each time, it would be accessing physical records one at a time as required, which automatically puts limits on how the data can be used. Digital records can enable easily searchable databases and with more data coming in, new uses can also be developed.
+
+As Andrew Thompson, Adjunct Assistant Professor Political Science, and Fellow at the Balsillie School of International Affairs, University of Waterloo, noted in The Conversation, the right to privacy has become a pressing human rights issue. And rightly so. Big data—combined with artificial intelligence and facial recognition software—has the capacity to intrude on people’s lives in unprecedented ways, and sometimes on a massive scale.
+
+States of all stripes are collecting data on their citizens, and have been doing so for some time. This is not going to end anytime soon. Quite the opposite, in fact. If left unchecked, invasions of privacy enabled by technology could put every other human right at risk, and on a scale that would be truly terrifying, Thompson noted.
+
+As of now, this data is confined to just a few states—however, if shared at the national level, it would open up even larger scale use of databases to surveil the people.
+For this reason, police access to such data is getting restricted in other countries. For example, in the US, police inspections used to be allowed without any limit on the number of queries, or other restrictions. However, a US Supreme Court decision in 2016 has changed this. In the case of City of Los Angeles v. Patel, the court recognised that a hotel has a privacy interest in the information it collects from its guests. The court said that hotel owners ahould be allowed to have a neutral decision-maker review an officer’s demand before handing over guest data.
+Highly valuable data is more at risk
+
+Aside from the question of misuse of data, there is also the question data theft. People staying at hotels have money to spend, and the hotel register contains a large degree of information about the individuals. As we know by now, data like this is quite valuable in itself—in fact, one of the reasons why the privatisation of IRCTC has been delayed is because the government realised it needed to arrive at a valuation for the treasure trove of data that the booking platform had gathered.
+
+The data from hotels is a tempting target for these reasons, and recent events have shown that this is indeed the case.
+
+Late last year, a case came to light of a hack at the Marriott, which exposed the passport numbers of more than 5 million people, dating back to records from 2014. In total, some 383 million records were compromised, including 8.6 million debit and credit card numbers. Some experts believe that the breach may have been the result of a Chinese intelligence-gathering effort, according to a December report by the New York Times.
+
+Digital repositories of check-in information will make data of this kind a tempting target for hackers, spread across multiple state government databases. Having multiple facets to attack will make it easier to find weaknesses and get to the data, obviously, but aside from that, there is also the question of how secure this data actually will be.
+As noted by others, including those in the government, the volume of attacks on Indian sites isn’t the main challenge—rather, it’s the lack of seriousness about security. Add to this the unfortunate tendency of the government to go into denial about hacks. Coupled with a lack of trained cybersecurity professionals, and the refusal to launch bug bounty programmes to encourage ethical hackers to test the security of government systems, the result is that these vast databases can’t truly be considered secure.
+Nothing new, but still a cause for concern
+
+As per Government of India regulations, it is mandatory for all guests to show an ID proof at the time of check-in, explained TD Reddy, manager of the Iris Hotel in Bengaluru’s HSR Layout. “It has to be a government ID proof, with address and photo on it. So we can take the licence, voter ID, passport, Aadhaar… We just keep a photocopy. There is also a form, which includes details like your address, which city you have come from, what your contact number is, those types of details.”
+
+So far, all hotels in India use a manual register with 20+ fields to record all relevant details of guests checking in and checking out of the hotel. This is later shared by hotels with the police authorities as mandated by law. In some places, a person familiar with the rules added, the registers need to be certified by the police before being put to use.
+
+Collecting this information is mandated by the government, but actually passing it on is another matter. It is normally maintained as a physical record, but almost never actually collected, Reddy said.
+
+“Sometimes if there is a missing person, or something like that, then the police can ask for details but that is all.” The police simply have to request the information for an investigation, and the hotel will look up the details, he said.
+
+The exception is foreigners, whose details the hotels are mandated to furnish to the police. “As per MHA directions, hotels have to only share information of foreign nationals. We are not a surveillance state and hence do not seek information of Indian citizens,” said Dinkar Gupta, DGP intelligence, Punjab. This, however, appears to be changing.
+OYO has created a new application which will be used by hotels to capture this information, rather than relying on paper documents. The hotel manager can record the information directly into the app, along with photos of the guests and government ID proofs. And, the company confirmed, it does not hold any of the user data—this goes directly to the government servers, which has already been tested in Jaipur, and pilots are also running in Haryana and Telangana.
+
+The data collected by the hotels under is supposed to be accessible by the police, but it’s not supposed to be presented as a firehose of information. This automatic uploading of information can have unintended consequences, as DGP Gupta’s response highlights.
+
+However, OYO and the governments seem to be too focused on efficiency and the ‘pioneer’ tage to recognise this.
+
+“Technology is deeply embedded in our DNA. We are always working towards building innovative solutions for providing a smooth and hassle-free experience for our guests and hoteliers,” an OYO spokesperson said. “With the Digital Departure and Arrival Register, we aim to add a stronger data security net to the entire booking process by ensuring transparency, digitization and improved efficiency of operations for the hotels. We are proud to offer this solution which has been pioneered by us to simply and safely transfer guest information to the relevant authorities, whenever requested for any investigation, basis an information order.”
+
+Businesses have never been at the forefront in fighting against unjust demands by governments, but OYO’s easy capitulation in handing over customer data, without even being asked for it, points to larger battles looming for privacy advocates.

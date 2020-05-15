@@ -1,0 +1,59 @@
+An Indian Start-Up Made A Robot Receptionist: Of Course She's A Woman
+By Gopal Sathe
+BENGALURU, Karnataka — Mitri, the receptionist at Smartworks, a co-working space in Cessna Business Park on Bengaluru’s Outer Ring Road, wears pink and white, greets people with a fixed smile and patiently answers questions about the facility. 
+
+She’s also being prepped to take over some janitorial work, vacuum floors and flit through the building at night as a security guard. 
+
+Mitra, her male counterpart, by contrast is in training to be deployed at a car-dealership.
+
+Mitri and Mitra are both robots — identical in every way except for their “genders”, as telegraphed by their plastic outer shells.
+
+The rise of the robots is already up-ending the workplace, yet somethings remain depressingly familiar—such as creating robots that conform to the same old stereotypes of ‘authoritative’ men and ‘helpful’ women. It is no coincidence that three of the biggest virtual assistants today—Siri, Alexa, and Cortana—also sound like women.
+
+“Initially, the bot was gender neutral,” explained Balaji Viswanathan, the CEO of Invento Robotics, the Bengaluru company that manufactures Mitra and Mitri.
+
+Viswanathan, a fixture of the Bengaluru startup scene, said Invento started about two and a half years ago with the idea to build a humanoid assistant, and came up with the design based on how it would interact with people.
+
+This included a ‘head’ that would turn to look at people (with mounted cameras), a display on its torso that would be easy to reach and type on, and a wheeled base for easy movement. What it didn’t include were any gender-related features.
+
+“When we first made it, we called it Mitra, and it was gender neutral. People asked us, ‘why did you make it male?’ You shouldn’t read too much into the whole gender thing, it’s just more successful with the customers, but it’s the same,” explained Viswanathan.
+
+“It has the same functionality. The design, like Mitri has a more curved design, the original design had more straight lines. And the colours, and voice, these are the main changes. It’s about what our customer thinks their customer will be most comfortable with,” Viswanathan said.
+The result is a little disturbing though. Mitri might look more like a chess piece than a person, but it’s been given a woman’s voice. It will back up to move out of the way as you come close, and turn to look at you. So placing a touchscreen display right over its “chest” seems like a bad design choice, and leads to awkward-looking interactions.
+What the customers want
+
+Viswanathan said that Invento is seeing customers from a number of different spheres. Airports are one set of customers—Mumbai has two bots, Delhi has three, and Chennai also has two. As it happens, just before meeting Viswanathan, we came across a Mitra-bot at the Chennai airport. It was unfortunately powered down at the time, and employees nearby couldn’t give details about its use.
+
+It’s also been deployed at SmartWorks, and other offices are in the pipeline, where it could use facial recognition to identify employees and buzz them through without requiring a tag or ID card. It could also, Viswanathan said, be used to give employees useful information through spoken queries, “Like, if you want to know how you should apply for leave, or what training you are eligible for, those kinds of things you could just ask.”
+
+The bot is also being used at retail locations, including a car dealership which specifically asked for a ‘male’ design. “We don’t need to do much to switch so we’re not too hung up on calling it male-female, it’s just what the customers want,” Viswanathan said.
+
+    Why a ‘female’ robot? — “It’s more woman-friendly.”
+
+This was confirmed by Harsh Binani and Neetish Sarda, CEO and founder of Smartworks respectively. The co-working company wants to take care of everything an employee could need—from basics like Internet and food at the canteen, to BigBasket vending machines and a laundry service, SmartWorks wants to handle everything.
+
+“We want to make the office and employee experience hassle-free, and Bengaluru has been very receptive,” said Binani. “But what’s also important to remember is that what is important to people in Bengaluru may not be very useful in Mumbai.” Bengaluru is a high-tech centre, he averred, and Sarda added that for the people here, a solution like Mitri seemed like the best option.
+
+“We tried tablets, email-based systems, all of that, but this really clicked in our trial,” said Sarda. “Is the air conditioning uneven? Does the toilet need cleaning? Just tell Mitri, and it will send real-time updates to the building managers who can take action.”
+
+The robot won’t be replacing a real receptionist, and Sarda said there’s no rationale to do so. But why a ‘female’ robot? “It’s more woman-friendly,” said Binani. “The office is full of tech companies, it’s very male dominated, so this makes it more approachable for the women working here.”
+A history of gendered robots
+
+The gender of robots, and AI assistants is not an idle question. It’s one of those things that gets taken for granted, but speaking in India, Microsoft CEO Satya Nadella talked about AI being the new operating system. This is a matter of concern, because we often don’t understand how the systems we build will work, and interact. For example, Amazon’s hiring algorithm had to be scrapped because was biased against women, which went unnoticed for a long time.
+
+And Microsoft’s chatbot Ruuh—which receives marriage proposals from strangers on Facebook, and chats with them about movies and music—quickly changes the subject if you talk about abuse or violence against women, rather than offering the resources people need. This isn’t a flaw in the bot, it’s just a scenario it’s creators didn’t think about.
+
+This isn’t new—the first chat program was named Eliza, in the 1960s. In the intervening years, we’ve tended to label conversational bots and algorithms as female, and this has consequences. Researchers said that virtual assistants spend much of their time fending off sexual harassment.
+Robots are developed with certain traits in accordance not only with who makes them, but also who the user is perceived as in terms of their gender roles, which adds to the social construct of robots’ gender roles, according to Roger Andre Søraa, in a paper titled “Mechanical genders: how do humans gender robots?”, published in Volume 21 of the “Gender, Technology and Development” journal.
+
+Research showed that users tend to like a male voice when an authoritative presence is needed and a female voice when receiving helpful guidance. Viswanathan is right when he reiterates that robots don’t have genders. But the gender biases that we see in the human world are mirrored in the robots we’re creating. When the exact same robot is given a pastel shade and rounded head to make “her” a more welcoming receptionist, and broad shoulders and a deeper voice so “he” will be more effective as a watchman, it tells us something, not about the robots, but the people using them.
+The next generation
+
+At the annual Consumer Electronics Show (CES), the biggest gadgets expo in the world, Invento is showcasing its latest robot, the Mitra v3. The new robot has more dextrous arms, and can even make hand gestures like a thumbs-up, or to hold small objects. The new bot will also have an updated navigation system, so it can move around the office (or showroom, or airport) more easily.
+
+It’s also getting some additional software smarts for use in a retail environment. For example, the camera on its head will also be used as a barcode reader. This could be useful in stores, to give nutritional information or describe common recipes using those ingredients, for example.
+
+Interestingly enough, the new version being demonstrated is the Mitra design again, and not the Mitri. The customers might prefer one thing but as Viswanathan puts it, “don’t think too much about the gender of a robot.”
+
+
+

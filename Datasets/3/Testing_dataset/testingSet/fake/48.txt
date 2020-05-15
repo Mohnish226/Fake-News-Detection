@@ -1,0 +1,7 @@
+Dell Keyboard Loggers
+I was opening up my almost brand new Dell 600m laptop, to replace a broken PCMCIA slot riser on the motherboard. As soon as I got the keyboard off, I noticed a small cable running from the keyboard connection underneath a piece of metal protecting the motherboard.
+I figured “No Big Deal”, and continued with the dissasembly. But when I got the metal panels off, I saw a small white heatshink-wrapped package. Being ever-curious, I sliced the heatshrink open. I found a little circuit board inside. Being an EE by trade, this piqued my curiosity considerably. On one side of the board, one Atmel AT45D041A four megabit Flash memory chip. On the other side, one Microchip Technology PIC16F876 Programmable Interrupt Controller, along with a little Fairchild Semiconductor CD4066BCM quad bilateral switch.
+
+Looking further, I saw that the other end of the cable was connected to the integrated ethernet board.
+
+What could this mean? I called Dell tech support about it, and they said, and I quote, “The intregrated service tag identifier is there for assisting customers in the event of lost or misplaced personal information.” He then hung up. A little more research, and I found that that board spliced in between the keyboard and the ethernet chip is little more than a Keyghost hardware keylogger.

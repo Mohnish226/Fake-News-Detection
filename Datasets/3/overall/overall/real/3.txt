@@ -1,0 +1,32 @@
+Ramnit Computer Worm Compromises 45K Facebook Logins
+A computer worm that has traditionally targeted the financial industry has set its sights on social networking, recently stealing over 45,000 Facebook login credentials, according to security firm Seculert.
+
+In a statement, Facebook said the majority of the login credentials were outdated, but it was still notifying the affected users.
+
+The worm, known as Ramnit, dates back to April 2010, and is described as a multi-component malware family that infects Windows executable and HTML files, stealing sensitive info like stored FTP credentials and browser cookies, Seculert said in a blog post.
+
+A July 2011 report (PDF) from Symantec said Ramnit was responsible for 17.3 percent of all new malicious software infections.
+
+Ramnit started going after financial institutions in August 2011, possibly merging with ZeusS "to create a 'Hybrid creature' which was empowered by both the scale of the Ramnit infection and the ZeuS financial data-sniffing capabilities," Seculert said.
+
+This approach let Ramnit bypass two-factor authentication systems, allowing remote access to financial institutions, including online banking sessions and corporate networks.
+
+"With the use of a Sinkhole, we discovered that approximately 800,000 machines were infected with Ramnit from September to end of December 2011," Seculert said.
+
+More recently, however, Ramnit has set its sites on Facebook and its 800 million users. Of the 45,000 compromised login details, approximately 69 percent were from Facebook users in the U.K., followed by 27 percent in France, and 4 percent elsewhere.
+
+"We suspect that the attackers behind Ramnit are using the stolen credentials to log-in to victims' Facebook accounts and to transmit malicious links to their friends, thereby magnifying the malware's spread even further," Seculert said. "In addition, cybercriminals are taking advantage of the fact that users tend to use the same password in various web-based services (Facebook, Gmail, Corporate SSL VPN, Outlook Web Access, etc.) to gain remote access to corporate networks."
+
+Seculert said it provided Facebook with all the stolen credentials that it discovered on Ramnit servers, which a Facebook spokesman confirmed.
+
+"Our security experts have reviewed the data, and while the majority of the information was out-of-date, we have initiated remedial steps for all affected users to ensure the security of their accounts," the Facebook spokesman said. "Thus far, we have not seen the virus propagating on Facebook itself, but have begun working with our external partners to add protections to our anti-virus systems to help users secure their devices."
+
+Facebook warned users not to click on strange links, to report suspicious activity on the social network, and become fans of the Facebook Security Page for additional security information.
+
+Michael Sutton, vice president of security research at Zscaler ThreatLabZ, suggested that Ramnit is simply following the money—and popular culture.
+
+"Just as communication overall has shifted from traditional mediums such as email to social networks like Facebook, malware writers likewise are adopting their victim's preferred means of communication," Sutton said in a statement. "Ramnit was not initially designed to harvest Facebook credentials, but the Ramnit maintainers have recognized the value of Facebook accounts for propagation."
+
+People are now less likely to click a random link via email, but trust is still relatively high on Facebook. "Receiving communication from a trusted contact on Facebook will have much higher click-through rates," Sutton said. "Victims are simply not aware that the 'trusted' Facebook account from which the communication was received, may itself have already been compromised."
+
+In general, Facebook is "doing a decent job of preventing such attacks, but it has so far been playing a losing game when it comes to preventing the social network from being used as a catalyst to promote attacks," he concluded.
