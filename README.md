@@ -29,6 +29,12 @@ cd MSA_Proj
 pip install -r requirements.txt
 ```
 
+To run app locally:
+```sh
+cd MSA_Proj/app/
+python app.py
+```
+
 ### Machine Learning Approach tried:
  - Analysis [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Analysis.ipynb)
  - Logistic Regression [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Basic%20Machine%20Learning.ipynb)
@@ -41,9 +47,15 @@ pip install -r requirements.txt
 
 ### Website:
 
-###### View Working on : [msa.datascience.app](https://msa.datascience.app)
+###### View Working on : [msa.datascience.app](http://msa.datascience.app)
+Note: The server might be slow to respond depending on the load on the system
 The model has not been trained on test data (available on website)
 For more data use data from [here](https://github.com/Mohnish226/MSA_Proj/tree/master/test_data) they are also not trained on
+
+### Screens
+
+![Website](https://github.com/Mohnish226/MSA_Proj/blob/master/screens/output.gif)
+
 
 ### Limitation:
  - The dataset is mostly based on data from USA
