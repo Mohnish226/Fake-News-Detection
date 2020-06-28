@@ -1,0 +1,125 @@
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <title>Fake News Checker!</title>
+  </head>
+<body>
+<style>
+    #mmenu_screen > .row {
+    min-height: 100vh;
+}
+
+.flex-fill {
+    flex:1 1 auto;
+}
+</style>
+<div id="mmenu_screen" class="container-fluid main_container bg-dark text-white d-flex">
+    <div class="row flex-fill">
+
+        <div class="col-sm-6 mmenu_screen--direktaction flex-fill">
+            <div class="alert alert-danger" role="alert">
+                Server may be slow to respond
+            </div>
+            <p>Paste your news here</p>
+            <textarea class="form-control" type="text" id="myText" value="" rows="20"></textarea>
+            <p><input type="checkbox" id="save"> would it be okay if we save this data ?</p>
+            <div class="align-center"><button type="button" class="btn btn-success" onclick="send_to_api()">Submit</button>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-danger" onclick="reset()">Reset</button></div>
+            <div class="align-center"></div>
+            <div id="snackbar">Text Copied</div>
+        </div>
+        <div class="col-sm-6 h-100">
+            <div class="row h-50 ">
+                <div class="col-sm-1" id="mmenu_screen--book"></div>
+                <div class="col-sm-11" id="mmenu_screen--book">
+                    <br><br>
+                    <div class="row center">
+                        <div class="col-2 bg-success"><h2 class="">FACT</h2></div>
+                        <div class="col-6"><canvas id="foo"></canvas></div>
+                        <div class="col-2 bg-danger"><h2>FAKE</h2></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row h-50 ">
+                <div class="col-sm-6" id="mmenu_screen--information">
+                    <div class="center"><h3>FACT</h3><small>(scroll for more)</small></div>
+                    <div id="fact" style="overflow-y:auto; overflow-x:hidden; height:300px;">
+
+
+
+                    </div>
+                </div>
+                <div class="col-sm-6" id="mmenu_screen--information">
+                    <div class="center"><h3>FAKE</h3><small>(scroll for more)</small></div>
+                    <div id="fake" style="overflow-y:auto; overflow-x:hidden; height:300px;">
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="http://bernii.github.com/gauge.js/dist/gauge.js" type="text/javascript" language="javascript"></script>
+<script>
+    var opts = {
+        lines: 12,
+  angle: 0,
+  lineWidth: 0.44,
+  pointer: {
+    length: 0.9,
+    strokeWidth: 0.035,
+    color: '#7371ff'
+  },
+  limitMax: 'false',
+  percentColors : [[0.0, "#07a003" ], [0.50, "#f9c802"], [1.0, "#db0016"]], // !!!!
+  strokeColor: '#E0E0E0',
+  generateGradient: true
+};
+var target = document.getElementById('foo'); // your canvas element
+var gauge = new Gauge(target).setOptions(opts); // create sexy gauge!
+gauge.maxValue = 100; // set max gauge value
+gauge.setMinValue(0);  // Prefer setter over gauge.minValue = 0
+gauge.animationSpeed = 23; // set animation speed (32 is default value)
+gauge.set(50);
+
+    function send_to_api() {
+        var id = document.getElementById("myText").value;
+        var checkBox = document.getElementById("save");
+        var url = "http://127.0.0.1:5000/api/text?txt='" + id + "'&sav='" + checkBox.checked + "'";
+        var gauge_val = 0;
+        console.log(url);
+        $.getJSON(url, function( data ) {
+          $.each( data, function( key, val ) {
+            gauge.set(parseInt(key));
+          });
+        });
+        console.log(gauge_val)
+    }
+    function reset() {
+        $('#myText').val('');
+        gauge.set(50);
+    }
+    function copy_text(e) {
+        var copyText = document.getElementById(e);
+        copyText.select();
+        copyText.setSelectionRange(0, 99999);
+        document.execCommand("copy");
+        var x = document.getElementById("snackbar");
+        x.className = "show";
+        setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+        reset();
+        $('#myText').val(copyText.value);
+    }
+</script>
+<script type=text/javascript src="{{ url_for('static', filename='js/data.js') }}"></script>
+</body>
+</html>
