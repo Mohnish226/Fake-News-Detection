@@ -3,6 +3,8 @@
 
 ### Fake News Detection
 
+>In recent years, the spread of misinformation or "Fake News" has increased exponentially due to the increasing use of social media / online platforms. As a number of people rely on information on the Internet, it is necessary to combat information that is not true or misleading. Malicious information may affect a large number of people. This misleading information is limited not only to individuals or locations, but also scientific facts. While there is ample evidence, there is plenty of inaccurate knowledge accessible on social media and online platforms. In this project, we developed and evaluated vaious types of systems that will be able to distinguish whether or not the text presented includes "Fake News"
+
 ### Datasets from:
 1. [Fake and real news dataset: Classifying the news](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/)
 2. [Getting Real about Fake News: Text & metadata from fake & biased news sources around the web](https://www.kaggle.com/mrisdal/fake-news)
