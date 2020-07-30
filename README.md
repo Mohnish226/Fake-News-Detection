@@ -27,13 +27,13 @@
 
 To install requirements:
 ```sh
-cd MSA_Proj
+cd Fake-News-Detection
 pip install -r requirements.txt
 ```
 
 To run app locally:
 ```sh
-cd MSA_Proj/app/
+cd Fake-News-Detection/app/
 python app.py
 ```
 
