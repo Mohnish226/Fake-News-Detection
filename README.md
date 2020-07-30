@@ -1,4 +1,4 @@
-# MSA Project
+# MSA Project: Fake-News-Detection
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=UP&url=https%3A%2F%2Fdatascience.app) ![](https://img.shields.io/badge/Submission-Done-brightgreen)
 
 ### Fake News Detection
@@ -38,25 +38,25 @@ python app.py
 ```
 
 ### Machine Learning Approach tried:
- - Analysis : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Analysis.ipynb)
- - Logistic Regression : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Basic%20Machine%20Learning.ipynb)
- - Linear Support Vector Classification : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Basic%20Machine%20Learning.ipynb)
- - XG Boost : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Basic%20Machine%20Learning.ipynb) : [Optimized](https://github.com/Mohnish226/MSA_Proj/blob/master/XGBoost.ipynb)
- - LightGBM : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Basic%20Machine%20Learning.ipynb)
- - Sequential : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/Sequential.ipynb)
- - RNN + GloVe : [view](https://github.com/Mohnish226/MSA_Proj/blob/master/GloVe.ipynb)
- - Final Sequential and RNN+GloVe trial [view](https://github.com/Mohnish226/MSA_Proj/blob/master/final-Sequential.ipynb)
+ - Analysis : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Analysis.ipynb)
+ - Logistic Regression : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Basic%20Machine%20Learning.ipynb)
+ - Linear Support Vector Classification : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Basic%20Machine%20Learning.ipynb)
+ - XG Boost : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Basic%20Machine%20Learning.ipynb) : [Optimized](https://github.com/Mohnish226/Fake-News-Detection/blob/master/XGBoost.ipynb)
+ - LightGBM : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Basic%20Machine%20Learning.ipynb)
+ - Sequential : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/Sequential.ipynb)
+ - RNN + GloVe : [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/GloVe.ipynb)
+ - Final Sequential and RNN+GloVe trial [View](https://github.com/Mohnish226/Fake-News-Detection/blob/master/final-Sequential.ipynb)
 
 ### Website:
 
 ###### View Working on : [msa.datascience.app](http://msa.datascience.app)
 Note: The server might be slow to respond depending on the load on the system
 The model has not been trained on test data (available on website)
-For more data use data from [here](https://github.com/Mohnish226/MSA_Proj/tree/master/test_data) they are also not trained on
+For more data use data from [here](https://github.com/Mohnish226/Fake-News-Detection/tree/master/test_data) they are also not trained on
 
 ### Screens
 
-![Website](https://github.com/Mohnish226/MSA_Proj/blob/master/screens/output.gif)
+![Website](https://github.com/Mohnish226/Fake-News-Detection/blob/master/screens/output.gif)
 
 
 ### Limitation:
